@@ -1,0 +1,21 @@
+/JOB
+//NAME VERIFICA_GRP_REC
+///FOLDERNAME GRAMPOS
+//POS
+///NPOS 0,0,0,0,0,0
+//INST
+///DATE 2022/06/10 16:45
+///ATTR SC,RW
+NOP
+'********************************
+'GRAMPOS RECUADOS
+WAIT IN#(537)=ON
+WAIT IN#(539)=ON
+WAIT IN#(541)=ON
+WAIT IN#(543)=ON
+'********************************
+'PINOS RECUADOS
+WAIT IN#(545)=ON
+WAIT IN#(547)=ON
+'********************************
+END

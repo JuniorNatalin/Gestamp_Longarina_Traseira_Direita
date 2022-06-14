@@ -1,0 +1,284 @@
+/SYSTEM 8
+//DATE      : 2022/06/14 04:35:39
+//SYSTEM NO : YAS4.35.00A(EN)-00
+//PARAM  NO : 3.81/3.81
+//APPLI     : MOTOR GUN       
+//LANGUAGE  :  4.35-00-00
+//REVISION
+ACP01    4.35.00,1.06-10
+AIF01   --------,16092200
+PP       2.21-00, 2.10-00, 1.07
+ASF01#0  2.23-01/ 2.11-00, 2.23-01/ 2.11-00, 2.00-00, 2.00-00,16122200,16122200
+SDCA01#0 4.16-00/ 4.16-00, 1.11C00/ 1.11P00, 2.00-00, 1.01-00,19090800,05000000
+//ROBOT NAME
+R1 : 1-06VX180-A0*(SP165) STANDARD                0011_1111
+S1 : GUN-1                                        0000_0001
+//CONTROL POWER
+TOTAL : 2022/02/10 14:59,00507:14'35
+//SERVO POWER
+TOTAL : 2022/02/10 14:59,00017:22'23
+R1    : 2022/02/10 14:59,00017:22'04
+S1    : 2022/02/10 14:59,00016:27'02
+//PLAYBACK TIME
+TOTAL : 2022/02/10 14:59,00000:46'41
+R1    : 2022/02/10 14:59,00000:46'41
+S1    : 2022/02/10 14:59,00000:46'41
+//MOVING TIME
+TOTAL : 2022/02/10 14:59,00000:09'27
+R1    : 2022/02/10 14:59,00000:09'27
+S1    : 2022/02/10 14:59,00000:09'27
+//OPERATING TIME
+TOOL1 : 2022/02/10 14:59,00000:00'00
+//ENERGY TIME
+TOTAL : 2022/02/10 14:59,00001:04'44
+//CONTROLLER SETTING
+============================================================
+LANGUAGE
+
+------------------------------------------------------------
+LANGUAGE1           ENGLISH            
+LANGUAGE2           ENGLISH            
+============================================================
+CONTROL GROUP                                       
+                                                    
+------------------------------------------------------------
+CONNECT :                             DETAIL        
+R1      : 1-06VX180-A0*                             
+B1      : NONE                        DETAIL        
+R2      : NONE                                      
+S1      : GUN-1                       DETAIL        
+S2      : NONE                        DETAIL        
+============================================================
+CONNECT(STO)                                        
+        -- AXIS --  -- BRK --   -- CV  --           
+    SV <123456789> <123456789> <123456789> ON_EN  OT
+------------------------------------------------------------
+R1 :#1 [123456---] [123456---] [111111---] ON_EN1 OT1   
+S1 :#1 [------1--] [------1--] [------1--] ON_EN1 ---   
+============================================================
+AXES CONFIG
+S1  : GUN-1           
+AXIS  AXIS TYPE     
+------------------------------------------------------------
+1   : BALL-SCREW                   
+============================================================
+MECHANICAL SPEC
+S1       : GUN-1                  AXIS: 1
+AXIS TYPE: BALL-SCREW    
+------------------------------------------------------------
+GUN TYPE                X-GUN(SINGLE ARM)
+MOTION RANGE(+)                   165.000 mm    
+MOTION RANGE(-)                   -30.000 mm    
+REDUCTION RATIO(NUMER)              2.192       
+REDUCTION RATIO(DENOM)              1.000       
+BALL-SCREW PITCH                    5.000 mm/r  
+MAX PRESSURE                         6000 N     
+============================================================
+MOTOR SPEC
+S1       : GUN-1                  AXIS: 1
+AXIS TYPE: BALL-SCREW    
+------------------------------------------------------------
+MOTOR                   TS4817N4930     
+SERVO AMP              CSRA-SDB71HA     
+CONVERTER                 CSRA-CV10     
+ROTATION DIRECTION           NORMAL     
+MAX RPM                        3000 rpm 
+ACCELERATION TIME             0.010 sec 
+INERTIA RATIO                   198 %   
+============================================================
+APPLICATION
+
+------------------------------------------------------------
+APPLICATION                             
+  MOTOR GUN                             
+ROBOT APPL OPTION        R1                                                             
+  1 : MOTOR GUN          *                 
+CIO LADDER (STANDARD) 
+  MOTOR GUN                             
+============================================================
+OPTION BOARD                                        
+STANDARD         #1 PCI,  #2 PCIe                   
+------------------------------------------------------------
+#0        NONE                                      
+#1        CP1616                                    
+#2        NONE                                      
+============================================================
+IO MODULE
+ST#   DI   DO  AI  AO BOARD               
+------------------------------------------------------------
+ 00 0040 0040   -   - ASF01(AIO01 NPN)
+ 01    -    -   -   - NONE
+ 02    -    -   -   - NONE
+ 03    -    -   -   - NONE
+ 04    -    -   -   - NONE
+ 05    -    -   -   - NONE
+ 06    -    -   -   - NONE
+ 07    -    -   -   - NONE
+ 08    -    -   -   - NONE
+ 09    -    -   -   - NONE
+ 10    -    -   -   - NONE
+ 11    -    -   -   - NONE
+ 12    -    -   -   - NONE
+ 13    -    -   -   - NONE
+ 14    -    -   -   - NONE
+ 15    -    -   -   - NONE
+ 16 0592 0592   -   - CP1616
+ 17    -    -   -   - NONE
+ 18    -    -   -   - NONE
+ 19    -    -   -   - NONE
+============================================================
+EXTERNAL IO SETUP                                   
+                                                    
+------------------------------------------------------------
+ALLOCATION MODE                  MANUAL             
+EXTERNAL IO ALLOCATION           DETAIL             
+============================================================
+EXTERNAL IO ALLOCATION(INPUT)                       
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#20010    0   0       0     0     5  ASF01          
+#20120   16   0     254     0     1  CP1616         
+#20130   16   0       0     1    22  CP1616         
+#20430   16   0       0    23     2  CP1616         
+#20510   16   0       0    25     2  CP1616         
+#20700   16   0       0    27     4  CP1616         
+#23520   16   0       0    31    43  CP1616         
+============================================================
+EXTERNAL IO ALLOCATION(OUTPUT)                      
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#30010    0   0       0     0     5  ASF01          
+#30120   16   0     254     0     1  CP1616         
+#30130   16   0       0     1    26  CP1616         
+#30430   16   0       0    27     2  CP1616         
+#30510   16   0       0    29     2  CP1616         
+#30700   16   0       0    31     4  CP1616         
+#33520   16   0       0    35    39  CP1616         
+============================================================
+OPTION FUNCTION
+
+------------------------------------------------------------
+* 006 VISION FUNCTION                 NOT USED  
+* 007 ROBOT DETACHMENT                DETAIL    
+* 009 AXES DETACHMENT                 DETAIL    
+* 011 LAN INTERFACE SETTING           DETAIL    
+* 012 NETWORK FUNCTION SETTING        DETAIL    
+* 013 EtherNet/IP(CPU Board)          DETAIL    
+* 014 DAYLIGHT SAVING TIME            DETAIL    
+* 015 RELATIVE JOB                    USED      
+* 016 INTERRUPT JOB                   NOT USED  
+* 017 TCP                             USED      
+* 018 MACRO INST.                     USED      
+* 020 I/F PANEL                       USED      
+* 021 LADDER EDITOR                   USED      
+* 022 PLAY MODE ENABLE                NOT USED  
+* 023 MANUAL BRAKE RELEASE            USED      
+* 025 EXTERNAL REFERENCE POINT        USED      
+* 026 PARALLEL START INSTRUCTION        7
+* 027 COORDINATED INSTRUCTION         USED      
+* 028 STATION ANGLE DISPLAY           NOT USED  
+* 030 LIMITS CUSTOMIZATION            DETAIL    
+* 032 TOOL NO. SWITCHING              USED      
+* 033 SI UNIT INDICATION              NOT USED  
+* 034 DISPLAY IO NAME IN JOB          USED      
+* 035 SVSPOT POS METHOD(DELAY CLK.)   1
+* 036 EXTERNAL IO SETUP               DETAIL    
+* 037 VARIABLE ALLOCATION             DETAIL    
+* 046 MotoPlus FUNC.                  NOT USED  
+* 048 AUTOBACKUP(ACP01)               NOT USED  
+* 049 Functional safety               DETAIL    
+* 052 SERVO POWER INDIVIDUAL CONTROL  DETAIL    
+* 053 MotoFit                         NOT USED  
+* 054 MotoLogix                       DETAIL    
+* 055 SAFETY LOGICAL CIRCUIT SETTING  DETAIL    
+* 056 SAFETY I/O BOARD SETTING        DETAIL    
+* 057 POWER FORCE LIMITING            DETAIL    
+* 058 3DGRAPHICS                      USED      
+* 059 ENDLESS FUNCTION                DETAIL    
+* 060 Search function                 USED      
+* 061 Pendant Oscilloscope function   USED      
+* 062 I/O OUTPUT CONTROL FUNCTION     NOT USED  
+* 063 TWIN SYNCHRONOUS FUNCTION       NOT USED  
+* 064 THERMAL SPRAY SPEED FUNCTION    NOT USED  
+* 065 ARM INTERFERE CHECK FUNCTION    NOT USED  
+* 066 CUBIC ARM INTERFERENCE CHK FUNC.NOT USED  
+* 067 HOVER WEAVING FUNCTION          NOT USED  
+* 068 SEARCH FUNCTION IN CONT MOTION  NOT USED  
+* 069 PASSWORD PROTECTION FUNCTION    NOT USED  
+* 070 ONLINE MANUAL FUNCTION          USED      
+* 071 I/O JOG OPERATION FUNCTION      NOT USED  
+* 072 Cockpit                         NOT USED  
+* 073 MOTOMAN DRIVER                  NOT USED  
+* 074 ENCODER CONFIG FUNCTION         DETAIL    
+* 075 TEACH POINT ADJUST FUNCTION     NOT USED  
+* 077 SmartPendant                    NOT USED  
+* 078 OT SIGNAL MULTI SETTING         NOT USED  
+* 081 CURRENT POSITION OUTPUT(Modbus) NOT USED  
+* 083 MUTUAL WAIT FUNCTION            DETAIL    
+* 086 MODE SWITCHING BY CONTROLLER    NOT USED  
+* 087 YERCProfile                     DETAIL    
+* 088 ROBOT POS. TRANS FUNC.(TRUMPF)  NOT USED  
+============================================================
+CMOS MEMORY
+
+------------------------------------------------------------
+  USED SIZE           2 MB               
+  MOUNTED SIZE        2 MB               
+============================================================
+------------------------------------------------------------
+FILE CREATE DATE             2021/02/04 10:19:45 EDITING
+CMOS.BIN LOADED              2022/02/09 13:57:57 YASKAWA
+============================================================
+CHANGE TRACKING LIST         DATE
+  INITIALIZE                 2022/02/10 15:00:31 YASKAWA
+  LANGUAGE                   ----/--/-- --:--:--
+  CONTROL GROUP              2022/06/02 14:05:44 SAFETY
+  APPLICATION                ----/--/-- --:--:--
+  OPTION BOARD               2022/05/31 18:59:36 SAFETY
+  IO MODULE                  2022/05/31 18:59:49 SAFETY
+  CMOS MEMORY                ----/--/-- --:--:--
+  DATE/TIME                  2022/02/09 11:20:00 YASKAWA
+  OPTION FUNCTION            2022/06/02 14:05:51 SAFETY
+============================================================
+INITIALIZED FILES
+  JOB                        2022/02/14 08:28:12 YASKAWA
+  FILE/GENERAL DATA          2022/02/17 07:55:39 SAFETY
+  PARAMETER                  ----/--/-- --:--:--
+  I/O DATA                   ----/--/-- --:--:--
+  SYSTEM DATA                2022/02/17 07:55:40 SAFETY
+  USER DEFINE                ----/--/-- --:--:--
+============================================================
+INSPECTION AND TEST RECORD   DATE
+Rseigi2_HE1403276_1_ANSI.psc 2021/02/04 10:23:15 YASKAWA
+SSGW-517-WLDING-1.PSC        2022/02/10 11:48:48 YASKAWA
+SSGW-517-WLDING-1.PSC        2022/02/10 16:51:46 YASKAWA
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+============================================================
+CHANGE TRACKING PARAMETER    DATE
+  AMCxG                      ----/--/-- --:--:--
+  AxP                        ----/--/-- --:--:--
+  CIO                        ----/--/-- --:--:--
+  FD                         ----/--/-- --:--:--
+  FMSxB                      ----/--/-- --:--:--
+  MFxG                       ----/--/-- --:--:--
+  RCD                        ----/--/-- --:--:--
+  RCxG                       ----/--/-- --:--:--
+  RExG                       ----/--/-- --:--:--
+  ROxG                       ----/--/-- --:--:--
+  RS                         ----/--/-- --:--:--
+  SxE                        ----/--/-- --:--:--
+  S1CxG                      ----/--/-- --:--:--
+  S2C                        ----/--/-- --:--:--
+  S3C                        ----/--/-- --:--:--
+  S4C                        ----/--/-- --:--:--
+  S1D                        ----/--/-- --:--:--
+  S2D                        ----/--/-- --:--:--
+  S3D                        ----/--/-- --:--:--
+  S4D                        ----/--/-- --:--:--
+  SVxG                       ----/--/-- --:--:--
+  SVCxB                      ----/--/-- --:--:--
+  SVD                        ----/--/-- --:--:--
+  SVMxG                      ----/--/-- --:--:--
+  SVPxG                      ----/--/-- --:--:--
+  SVSxB                      ----/--/-- --:--:--

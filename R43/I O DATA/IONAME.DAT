@@ -1,0 +1,2058 @@
+/IONAME
+//IN
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+DIAG PROFINET,DIAG PROFINET,DIAG PROFINET,DIAG PROFINET
+DIAG PROFINET,DIAG PROFINET,DIAG PROFINET,DIAG PROFINET
+VALIDA_PRO_OK_R1,Not used,WELD_COMPLET R1,Timer ready
+FALHA WELD,Fault reset,Not used,UIR mode desl
+Firing enabled,With monit,Q Stop,Ack end compon
+UI Regulat act,UI monit act,Not used,Prog Output
+PRIMEIRA FRESSA,TROCA_ELETRODO,CONFIRMA TROCA,
+,,FRESSAR_ELETRODO,CONFIRM DRSSR R1
+Tip Dres Warn,Dres  End Life,dress cutter chg,Not used
+Refer weld,Tip drs/gun defc,Mont weld act,Not used
+Dress tool run,Dressing tool,Error dres tool1,Not used
+Not used,Dress tool run2,Dress finished,Error dress
+Not used,Not used,Dress tool run,Dress tool fins
+Error dres tool3,Not used,Not used,Not used
+Pres within tlr,Not used,Not used,Not used
+Not used,Not used,Not used,Not used
+Motor protc trip,Circt breaker ON,No fault current,Linked Input I17
+Linked Input I18,Not used,Not used,Not used
+Gun selct Bit 00,Gun selct Bit 01,Gun selct Bit 02,Gun selct Bit 03
+Gun selct Bit 04,Gun selct Bit 05,Gun selct Bit 06,Gun selct Bit 07
+Gun selct Bit 08,Gun selct Bit 09,Gun selct Bit 10,Gun selct Bit 11
+Gun selct Bit 12,Gun selct Bit 13,Gun selct Bit 14,Gun selct Bit 15
+Gun Force Bit 00,Gun Force Bit 01,Gun Force Bit 02,Gun Force Bit 03
+Gun Force Bit 04,Gun Force Bit 05,Gun Force Bit 06,Gun Force Bit 07
+Gun Force Bit 08,Gun Force Bit 09,Gun Force Bit 10,Gun Force Bit 11
+Gun Force Bit 12,Gun Force Bit 13,Gun Force Bit 14,Gun Force Bit 15
+Shet tkns Bit 00,Shet tkns Bit 01,Shet tkns Bit 02,Shet tkns Bit 03
+Shet tkns Bit 04,Shet tkns Bit 05,Shet tkns Bit 06,Shet tkns Bit 07
+Shet tkns Bit 08,Shet tkns Bit 09,Shet tkns Bit 10,Shet tkns Bit 11
+Shet tkns Bit 12,Shet tkns Bit 13,Shet tkns Bit 14,Shet tkns Bit 15
+TurnTip drsBit00,TurnTip drsBit01,TurnTip drsBit02,TurnTip drsBit03
+TurnTip drsBit04,TurnTip drsBit05,TurnTip drsBit06,TurnTip drsBit07
+TurnTip drsBit08,TurnTip drsBit09,TurnTip drsBit10,TurnTip drsBit11
+TurnTip drsBit12,TurnTip drsBit13,TurnTip drsBit14,TurnTip drsBit15
+Code Bit_0,Code Bit_1,Code Bit_2,Code Bit_3
+Code Bit_4,Code Bit_5,Code Bit_6,Code Bit_7
+Code Bit_8,Code Bit_9,Code Bit_10,Code Bit_11
+Code Bit_12,Code Bit_13,Code Bit_14,Code Bit_15
+Progtime seq00,Progtime seq01,Progtime seq02,Progtime seq03
+Progtime seq04,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1,RSV_TMR_R1
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+ACK_MOTOR_DRS,RSV_DRESS_R1,DRESS REC_R1,RSV_DRESS_R1
+DRESS_LIG,SOPRADOR_LIGADO,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,DRESS_AVA_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+CONFIR_TIPCHANG,CONFIR_TIPCHANG,CONFIR_TIPCHANG,CONFIR_TIPCHANG
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+CONFIRM_TIPCHANG,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+"FLUXO_AGUA_R1
+,FLUXO_AGUA_R2
+,FLUXO_AGUA_R3,FLUXO_AGUA_R4"
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+SENS_TP_AGUA R1
+,SENS_TP_AGUA R2
+,REDE DE AR,SENS_TP_AGUA R4"
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+GRAMPO_A REC,VAL_A AV,VAL_B01 REC,VAL_B01 AV
+VAL_B02 REC,VAL_B02 AV,VAL_B03 REC,VAL_B03 AV
+VAL_B04 REC,VAL_B04 AV,S01_PECA,S02_PECA
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+READY FOR SERVIC,FEEDBACK WELD,NO FAULT,MAINTENANCE WARN
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+FAULT HEAD 1,FAULT HEAD 2,FAULT HEAD 3,FAULT HEAD 4
+FAULT HEAD 5,PLUS SERVER ACTI,reserva_tucker,reserva_tucker
+WELD COMPLETE 1,WELD COMPLETE 2,WELD COMPLETE 3,WELD COMPLETE 4
+WELD COMPLETE 5,WELD HEAD BACK 1,WELD HEAD BACK 2,WELD HEAD BACK 3
+WELD HEAD BACK 4,WELD HEAD BACK 5,COLOUR MARKING 1,COLOUR MARKING 2
+COLOUR MARKING 3,COLOUR MARKING 4,COLOUR MARKING 5,INSIDE TOLERANCE
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+PART TAKE OFF 1,GRIPPER OPEN 1,reserva_tucker,PART TAKE OFF 2
+GRIPPER OPEN 2,REQUEST RELEASE,STUD FEEDER 1,STUD FEEDER 2
+STUD FEEDER 3,STUD FEEDER 4,STUD FEEDER 5,MAGAZINE FULL 1
+MAGAZINE FULL 2,MAGAZINE FULL 3,MAGAZINE FULL 3,MAGAZINE FULL 5
+ALL CONNECT LMR,LMR 1 IN ANGLE,LMR 2 IN ANGLE,LMR 3 IN ANGLE
+LMR 4 IN ANGLE ,LMR 5 IN ANGLE,STUD IN GRIPPER1,STUD IN GRIPPER2
+STUD IN GRIPPER3,STUD IN GRIPPER4,STUD IN GRIPPER5,IN TOLERANCE 1
+IN TOLERANCE 2,IN TOKERANCE 3,IN TOLERANCE 4,IN TOLERANCE 5
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+VALIDA_PRO_OK_R2,Not used,WELD_COMPLET R2,Timer ready
+FALHA WELD,Fault reset,Not used,UIR mode desl
+Firing enabled,With monit,Q Stop,Ack end compon
+UI Regulat act,UI monit act,Not used,Prog Output
+PRE AVISO TRC R2,MAX_DUR_ELET_R2,TROCA ELETROD R2,CONFIRM TROCA R2
+PRONT_DRESSER_R2,SOL_PRE-FRES_R2,DRESSER R2,CONFIRM DRSSR R2
+Tip Dres Warn,Dres  End Life,dress cutter chg,Not used
+Refer weld,Tip drs/gun defc,Mont weld act,Not used
+Dress tool run,Dressing tool,Error dres tool1,Not used
+Not used,Dress tool run2,Dress finished,Error dress
+Not used,Not used,Dress tool run,Dress tool fins
+Error dres tool3,Not used,Not used,Not used
+Pres within tlr,Not used,Not used,Not used
+Not used,Not used,Not used,Not used
+Motor protc trip,Circt breaker ON,No fault current,Linked Input I17
+Linked Input I18,Not used,Not used,Not used
+Gun selct Bit 00,Gun selct Bit 01,Gun selct Bit 02,Gun selct Bit 03
+Gun selct Bit 04,Gun selct Bit 05,Gun selct Bit 06,Gun selct Bit 07
+Gun selct Bit 08,Gun selct Bit 09,Gun selct Bit 10,Gun selct Bit 11
+Gun selct Bit 12,Gun selct Bit 13,Gun selct Bit 14,Gun selct Bit 15
+Gun Force Bit 00,Gun Force Bit 01,Gun Force Bit 02,Gun Force Bit 03
+Gun Force Bit 04,Gun Force Bit 05,Gun Force Bit 06,Gun Force Bit 07
+Gun Force Bit 08,Gun Force Bit 09,Gun Force Bit 10,Gun Force Bit 11
+Gun Force Bit 12,Gun Force Bit 13,Gun Force Bit 14,Gun Force Bit 15
+Shet tkns Bit 00,Shet tkns Bit 01,Shet tkns Bit 02,Shet tkns Bit 03
+Shet tkns Bit 04,Shet tkns Bit 05,Shet tkns Bit 06,Shet tkns Bit 07
+Shet tkns Bit 08,Shet tkns Bit 09,Shet tkns Bit 10,Shet tkns Bit 11
+Shet tkns Bit 12,Shet tkns Bit 13,Shet tkns Bit 14,Shet tkns Bit 15
+TurnTip drsBit00,TurnTip drsBit01,TurnTip drsBit02,TurnTip drsBit03
+TurnTip drsBit04,TurnTip drsBit05,TurnTip drsBit06,TurnTip drsBit07
+TurnTip drsBit08,TurnTip drsBit09,TurnTip drsBit10,TurnTip drsBit11
+TurnTip drsBit12,TurnTip drsBit13,TurnTip drsBit14,TurnTip drsBit15
+Code Bit_0,Code Bit_1,Code Bit_2,Code Bit_3
+Code Bit_4,Code Bit_5,Code Bit_6,Code Bit_7
+Code Bit_8,Code Bit_9,Code Bit_10,Code Bit_11
+Code Bit_12,Code Bit_13,Code Bit_14,Code Bit_15
+Progtime seq00,Progtime seq01,Progtime seq02,Progtime seq03
+Progtime seq04,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2,RSV_TMR_R2
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+ACK_MOTOR_DRS,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+PRESSAO_BAIXA,FLUXO_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+PRESSAO_ALTA,temperatura_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+VALIDA_PRO_OK_R3,Not used,WELD_COMPLET R3,Timer ready
+FALHA WELD,Fault reset,Not used,UIR mode desl
+Firing enabled,With monit,Q Stop,Ack end compon
+UI Regulat act,UI monit act,Not used,Prog Output
+PRE AVISO TRC R3,MAX_DUR_ELET_R3,TROCA ELETROD R3,CONFIRM TROCA R3
+PRONT_DRESSER_R3,SOL_PRE-FRES_R3,DRESSER R3,CONFIRM DRSSR R3
+Tip Dres Warn,Dres  End Life,dress cutter chg,Not used
+Refer weld,Tip drs/gun defc,Mont weld act,Not used
+Dress tool run,Dressing tool,Error dres tool1,Not used
+Not used,Dress tool run2,Dress finished,Error dress
+Not used,Not used,Dress tool run,Dress tool fins
+Error dres tool3,Not used,Not used,Not used
+Pres within tlr,Not used,Not used,Not used
+Not used,Not used,Not used,Not used
+Motor protc trip,Circt breaker ON,No fault current,Linked Input I17
+Linked Input I18,Not used,Not used,Not used
+Gun selct Bit 00,Gun selct Bit 01,Gun selct Bit 02,Gun selct Bit 03
+Gun selct Bit 04,Gun selct Bit 05,Gun selct Bit 06,Gun selct Bit 07
+Gun selct Bit 08,Gun selct Bit 09,Gun selct Bit 10,Gun selct Bit 11
+Gun selct Bit 12,Gun selct Bit 13,Gun selct Bit 14,Gun selct Bit 15
+Gun Force Bit 00,Gun Force Bit 01,Gun Force Bit 02,Gun Force Bit 03
+Gun Force Bit 04,Gun Force Bit 05,Gun Force Bit 06,Gun Force Bit 07
+Gun Force Bit 08,Gun Force Bit 09,Gun Force Bit 10,Gun Force Bit 11
+Gun Force Bit 12,Gun Force Bit 13,Gun Force Bit 14,Gun Force Bit 15
+Shet tkns Bit 00,Shet tkns Bit 01,Shet tkns Bit 02,Shet tkns Bit 03
+Shet tkns Bit 04,Shet tkns Bit 05,Shet tkns Bit 06,Shet tkns Bit 07
+Shet tkns Bit 08,Shet tkns Bit 09,Shet tkns Bit 10,Shet tkns Bit 11
+Shet tkns Bit 12,Shet tkns Bit 13,Shet tkns Bit 14,Shet tkns Bit 15
+TurnTip drsBit00,TurnTip drsBit01,TurnTip drsBit02,TurnTip drsBit03
+TurnTip drsBit04,TurnTip drsBit05,TurnTip drsBit06,TurnTip drsBit07
+TurnTip drsBit08,TurnTip drsBit09,TurnTip drsBit10,TurnTip drsBit11
+TurnTip drsBit12,TurnTip drsBit13,TurnTip drsBit14,TurnTip drsBit15
+Code Bit_0,Code Bit_1,Code Bit_2,Code Bit_3
+Code Bit_4,Code Bit_5,Code Bit_6,Code Bit_7
+Code Bit_8,Code Bit_9,Code Bit_10,Code Bit_11
+Code Bit_12,Code Bit_13,Code Bit_14,Code Bit_15
+Progtime seq00,Progtime seq01,Progtime seq02,Progtime seq03
+Progtime seq04,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3,RSV_TMR_R3
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+ACK_MOTOR_DRS,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+PRESSAO_BAIXA,fluxo_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+PRESSAO_ALTA,temperatura_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+VALIDA_PRO_OK_R4,Not used,WELD_COMPLET R4,Timer ready
+FALHA WELD,Fault reset,Not used,UIR mode desl
+Firing enabled,With monit,Q Stop,Ack end compon
+UI Regulat act,UI monit act,Not used,Prog Output
+PRE AVISO TRC R4,MAX_DUR_ELET_R4,TROCA ELETROD R4,CONFIRM TROCA R4
+PRONT_DRESSER_R4,SOL_PRE-FRES_R4,DRESSER R4,CONFIRM DRSSR R4
+Tip Dres Warn,Dres  End Life,dress cutter chg,Not used
+Refer weld,Tip drs/gun defc,Mont weld act,Not used
+Dress tool run,Dressing tool,Error dres tool1,Not used
+Not used,Dress tool run2,Dress finished,Error dress
+Not used,Not used,Dress tool run,Dress tool fins
+Error dres tool3,Not used,Not used,Not used
+Pres within tlr,Not used,Not used,Not used
+Not used,Not used,Not used,Not used
+Motor protc trip,Circt breaker ON,No fault current,Linked Input I17
+Linked Input I18,Not used,Not used,Not used
+Gun selct Bit 00,Gun selct Bit 01,Gun selct Bit 02,Gun selct Bit 03
+Gun selct Bit 04,Gun selct Bit 05,Gun selct Bit 06,Gun selct Bit 07
+Gun selct Bit 08,Gun selct Bit 09,Gun selct Bit 10,Gun selct Bit 11
+Gun selct Bit 12,Gun selct Bit 13,Gun selct Bit 14,Gun selct Bit 15
+Gun Force Bit 00,Gun Force Bit 01,Gun Force Bit 02,Gun Force Bit 03
+Gun Force Bit 04,Gun Force Bit 05,Gun Force Bit 06,Gun Force Bit 07
+Gun Force Bit 08,Gun Force Bit 09,Gun Force Bit 10,Gun Force Bit 11
+Gun Force Bit 12,Gun Force Bit 13,Gun Force Bit 14,Gun Force Bit 15
+Shet tkns Bit 00,Shet tkns Bit 01,Shet tkns Bit 02,Shet tkns Bit 03
+Shet tkns Bit 04,Shet tkns Bit 05,Shet tkns Bit 06,Shet tkns Bit 07
+Shet tkns Bit 08,Shet tkns Bit 09,Shet tkns Bit 10,Shet tkns Bit 11
+Shet tkns Bit 12,Shet tkns Bit 13,Shet tkns Bit 14,Shet tkns Bit 15
+TurnTip drsBit00,TurnTip drsBit01,TurnTip drsBit02,TurnTip drsBit03
+TurnTip drsBit04,TurnTip drsBit05,TurnTip drsBit06,TurnTip drsBit07
+TurnTip drsBit08,TurnTip drsBit09,TurnTip drsBit10,TurnTip drsBit11
+TurnTip drsBit12,TurnTip drsBit13,TurnTip drsBit14,TurnTip drsBit15
+Code Bit_0,Code Bit_1,Code Bit_2,Code Bit_3
+Code Bit_4,Code Bit_5,Code Bit_6,Code Bit_7
+Code Bit_8,Code Bit_9,Code Bit_10,Code Bit_11
+Code Bit_12,Code Bit_13,Code Bit_14,Code Bit_15
+Progtime seq00,Progtime seq01,Progtime seq02,Progtime seq03
+Progtime seq04,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4,RSV_TMR_R4
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+ACK_MOTOR_DRS,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+PRESSAO_BAIXA,fluxo_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+PRESSAO_ALTA,temperatura_R2,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CAPA NOVA R1,CAPA NOVA R2,CAPA NOVA R3,CAPA NOVA R4
+LIMITE CAPA R1,LIMITE CAPA R2,LIMITE CAPA R3,LIMITE CAPA R4
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+SLC_DRESS,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CMD-TOP_MASTER,CMD-SERVO_OFF,CMD-SERVO_ON,CMD-HOLD
+CMD-START,CMD-RESET_FALHAS,CMD-DRY_RUN,CMD-WELD_OFF
+CMD-SPEEDLIMIT,CMD_ON,STS-APP_MAN,CMD_EMERGENCIA
+STS-SIDE_A,STS-SIDE_B,Byte[02].7_RESV,Byte[02].8_RESV
+TABLE_1_OK,TABLE_2_OK,TABLE_3_OK,TABLE_4_OK
+TABLE_5_OK,TABLE_6_OK,TABLE_7_OK,TABLE_8_OK
+Byte[04].1_RESV,Byte[04].2_RESV,Byte[04].3_RESV,Byte[04].4_RESV
+Byte[04].5_RESV,Byte[04].6_RESV,Byte[04].7_RESV,Byte[04].8_RESV
+Byte[05].1_RESV,Byte[05].2_RESV,Byte[05].3_RESV,Byte[05].4_RESV
+Byte[05].5_RESV,Byte[05].6_RESV,Byte[05].7_RESV,Byte[05].8_RESV
+Byte[06].1_RESV,Byte[06].2_RESV,Byte[06].3_RESV,Byte[06].4_RESV
+Byte[06].5_RESV,Byte[06].6_RESV,Byte[06].7_RESV,Byte[06].8_RESV
+Byte[07].1_RESV,Byte[07].2_RESV,Byte[07].3_RESV,Byte[07].4_RESV
+Byte[07].5_RESV,Byte[07].6_RESV,Byte[07].7_RESV,Byte[07].8_RESV
+BYTE[08].1_RESV,BYTE[08].2_RESV,BYTE[08].3_RESV,BYTE[08].4_RESV
+BYTE[08].5_RESV,BYTE[08].6_RESV,BYTE[08].7_RESV,BYTE[08].8_RESV
+CMD-HOME_R1,CMD-MANUT_R1,CMD-FRS/DRS_R1,CMD-TPCHNGE_R1
+CMD-TCP_R1,BYTE[01].6_RES,BYTE[01].7_RES,BYTE[01].8_RES
+OP01_LA_HAB,OP02_LA_HAB,OP03_LA_HAB,OP04_LA_HAB
+OP05_LA_HAB,OP06_LA_HAB,OP07_LA_HAB,OP08_LA_HAB
+ACK-EVNTWORK1_LA,ACK-EVNTWORK2_LA,ACK-EVNTWORK3_LA,ACK-EVNTWORK4_LA
+ACK-EVNTWORK5_LA,ACK-EVNTWORK6_LA,ACK-EVNTWORK7_LA,ACK-EVNTWORK8_LA
+OP01_LB_HAB,OP02_LB_HAB,OP03_LB_HAB,OP04_LB_HAB
+OP05_LB_HAB,OP06_LB_HAB,OP07_LB_HAB,OP08_LB_HAB
+ACK-EVNTWORK1_LB,ACK-EVNTWORK2_LB,ACK-EVNTWORK3_LB,ACK-EVNTWORK4_LB
+ACK-EVNTWORK5_LB,ACK-EVNTWORK6_LB,ACK-EVNTWORK7_LB,ACK-EVNTWORK8_LB
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+CMD-ENTRYDOOR_R1,CMD-ROBOT_SPOT,CMD-ROBOT_GRIPP,CMD-ROBOT_COLA
+CMD-ROBOT_TUCKER,CMD-RIP_EXT,CMD-INTERLOCK,ACK-STOP_OK
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CMD-HOME_R2,CMD-MANUT_R2,CMD-FRS/DRS_R2,CMD-TPCHNGE_R2
+CMD-TCP_R2,BYTE[01].6_RES,BYTE[01].7_RES,BYTE[01].8_RES
+OP01_LA_HAB,OP02_LA_HAB,OP03_LA_HAB,OP04_LA_HAB
+OP05_LA_HAB,OP06_LA_HAB,OP07_LA_HAB,OP08_LA_HAB
+ACK-EVNWORK1_LA,ACK-EVNWORK2_LA,ACK-EVNWORK3_LA,ACK-EVNWORK4_LA
+ACK-EVNWORK5_LA,ACK-EVNWORK6_LA,ACK-EVNWORK7_LA,ACK-EVNWORK8_LA
+OP01_LB_HAB,OP02_LB_HAB,OP03_LB_HAB,OP04_LB_HAB
+OP05_LB_HAB,OP06_LB_HAB,OP07_LB_HAB,OP08_LB_HAB
+ACK-EVNWORK1_LB,ACK-EVNWORK2_LB,ACK-EVNWORK3_LB,ACK-EVNWORK4_LB
+ACK-EVNWORK5_LB,ACK-EVNWORK6_LB,ACK-EVNWORK7_LB,ACK-EVNWORK8_LB
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+CMD-ENTRYDOR_R2,CMD-ROBOT_SPOT,CMD-ROBOT_GRIPP,CMD-ROBOT_COLA
+CMD-ROBOT_TUCKER,CMD-RIP_EXT,CMD-INTERLOCK,ACK-STOP_OK
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CMD-HOME_R3,CMD-MANUT_R3,CMD-FRS/DRS_R3,CMD-TPCHNGE_R3
+CMD-TCP_R3,BYTE[01].6_RES,BYTE[01].7_RES,BYTE[01].8_RES
+OP01_LA_HAB,OP02_LA_HAB,OP03_LA_HAB,OP04_LA_HAB
+OP05_LA_HAB,OP06_LA_HAB,OP07_LA_HAB,OP08_LA_HAB
+ACK-EVNWORK1_LA,ACK-EVNWORK2_LA,ACK-EVNWORK3_LA,ACK-EVNWORK4_LA
+ACK-EVNWORK5_LA,ACK-EVNWORK6_LA,ACK-EVNWORK7_LA,ACK-EVNWORK8_LA
+OP01_LB_HAB,OP02_LB_HAB,OP03_LB_HAB,OP04_LB_HAB
+OP05_LB_HAB,OP06_LB_HAB,OP07_LB_HAB,OP08_LB_HAB
+ACK-EVNWORK1_LB,ACK-EVNWORK2_LB,ACK-EVNWORK3_LB,ACK-EVNWORK4_LB
+ACK-EVNWORK5_LB,ACK-EVNWORK6_LB,ACK-EVNWORK7_LB,ACK-EVNWORK8_LB
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+CMD-ENTRYDOOR_R3,CMD-ROBOT_SPOT,CMD-ROBOT_GRIPP,CMD-ROBOT_COLA
+CMD-ROBOT_TUCKER,CMD-RIP_EXT,CMD-INTERLOCK,ACK-STOP_OK
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CMD-HOME_R4,CMD-MANUT_R4,CMD-FRS/DRS_R4,CMD-TPCHNGE_R4
+CMD-TCP_R4,BYTE[01].6_RES,BYTE[01].7_RES,BYTE[01].8_RES
+OP01_LA_HAB,OP02_LA_HAB,OP03_LA_HAB,OP04_LA_HAB
+OP05_LA_HAB,OP06_LA_HAB,OP07_LA_HAB,OP08_LA_HAB
+ACK-EVNWORK1_LA,ACK-EVNWORK2_LA,ACK-EVNWORK3_LA,ACK-EVNWORK4_LA
+ACK-EVNWORK5_LA,ACK-EVNWORK6_LA,ACK-EVNWORK7_LA,ACK-EVNWORK8_LA
+OP01_LB_HAB,OP02_LB_HAB,OP03_LB_HAB,OP04_LB_HAB
+OP05_LB_HAB,OP06_LB_HAB,OP07_LB_HAB,OP08_LB_HAB
+ACK-EVNWORK1_LB,ACK-EVNWORK2_LB,ACK-EVNWORK3_LB,ACK-EVNWORK4_LB
+ACK-EVNWORK5_LB,ACK-EVNWORK6_LB,ACK-EVNWORK7_LB,ACK-EVNWORK8_LB
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+No_PROGWELD,No_PROGWELD,No_PROGWELD,No_PROGWELD
+CMD-ENTRYDOOR_R4,,CMD-ROBOT_GRIPP,CMD-ROBOT_COLA
+CMD-ROBOT_TUCKER,CMD-RIP_EXT,CMD-INTERLOCK,ACK-STOP_OK
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+HABILITA TUCKER,,,
+,,,
+//OUT
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+DIAG PROFINET,DIAG PROFINET,DIAG PROFINET,DIAG PROFINET
+DIAG PROFINET,DIAG PROFINET,DIAG PROFINET,DIAG PROFINET
+VALID_PROGRA_R1,Not used,START_R1,RST_GERAL_R1
+RST_FAUL_WLD_R1,Reset Faul Rew,Not used,Disabl UIR mode
+IGNICAO_R1 ,Not used,Not used,End component
+Not used,Not used,Not used,Oper Force Sem
+Not used,Not used,Not used,RESET TROCA R1
+Not used,Not used,Not used,RESET DRES R1
+Not used,Not used,Tip dress OK,Gun resist adju
+Refer new elect,Refer tip dres,Monitoring weld,Not used
+Start dres tool1,Close Gun 1,Not used,Not used
+Not used,Start dres tool2,Close Gun 2,Not used
+Not used,Not used,Start dres tool3,Close Gun 3
+Not used,Not used,Not used,Not used
+thickness Bit00,thickness Bit01,thickness Bit02,thickness Bit03
+thickness Bit04,thickness Bit05,thickness Bit06,thickness Bit07
+thickness Bit08,thickness Bit09,thickness Bit10,thickness Bit11
+thickness Bit12,thickness Bit13,thickness Bit14,thickness Bit15
+SEL PROG BIT00,SEL PROG BIT01,SEL PROG BIT02,SEL PROG BIT03
+SEL PROG BIT04,SEL PROG BIT05,SEL PROG BIT06,SEL PROG BIT07
+SEL PROG BIT08,SEL PROG BIT09,SEL PROG BIT10,SEL PROG BIT11
+SEL PROG BIT12,SEL PROG BIT13,SEL PROG BIT14,SEL PROG BIT15
+SEL PROG BIT16,SEL PROG BIT17,SEL PROG BIT18,SEL PROG BIT19
+SEL PROG BIT20,SEL PROG BIT21,SEL PROG BIT22,SEL PROG BIT23
+SEL PROG BIT24,SEL PROG BIT25,SEL PROG BIT26,Not used
+Tool Bit00,Tool Bit01,Tool Bit02,Tool Bit03
+Factory Bit00,Factory Bit01,Factory Bit02,Factory Bit03
+Construct Bit00,Construct Bit01,Construct Bit02,Construct Bit03
+Model Bit00,Model Bit01,Model Bit02,Model Bit03
+wheel Bit00,wheel Bit01,wheel Bit02,wheel Bit03
+Type Bit00,Type Bit01,Type Bit02,Type Bit03
+Md range Bit00,Md range Bit01,Md range Bit02,Md range Bit03
+Md range Bit04,Md range Bit05,Md range Bit06,Md range Bit07
+Md range Bit08,Md range Bit09,Not used,Not used
+ASCII0,Bit_0,ASCII0,Bit_1
+ASCII0,Bit_4,ASCII0,Bit_5
+ASCII1,Bit_0,ASCII1,Bit_1
+ASCII1,Bit_4,ASCII1,Bit_5
+ASCII2,Bit_0,ASCII2,Bit_1
+ASCII2,Bit_4,ASCII2,Bit_5
+ASCII3,Bit_0,ASCII3,Bit_1
+ASCII3,Bit_4,ASCII3,Bit_5
+ASCII4,Bit_0,ASCII4,Bit_1
+ASCII4,Bit_4,ASCII4,Bit_5
+ASCII5,Bit_0,ASCII5,Bit_1
+ASCII5,Bit_4,ASCII5,Bit_5
+ASCII6,Bit_0,ASCII6,Bit_1
+ASCII6,Bit_4,ASCII6,Bit_5
+ASCII7,Bit_0,ASCII7,Bit_1
+ASCII7,Bit_4,ASCII7,Bit_5
+ASCII8,Bit_0,ASCII8,Bit_1
+ASCII8,Bit_4,ASCII8,Bit_5
+ASCII9,Bit_0,ASCII9,Bit_1
+ASCII9,Bit_4,ASCII9,Bit_5
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+CMD_DRESS_AVA,CMD_DRESS_REC,RSV_DRSSR_R1,RSV_DRSSR_R1
+CMD_LIGA_DRESS,CMD_SOPRAD_AR,RSV_DRESS_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRESS_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1,RSV_DRSSR_R1
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+CMD_LAMP_CHGTIP,CMD_LAMP_CHGTIP,CMD_LAMP_CHGTIP,CMD_LAMP_CHGTIP
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RIP_R1_LIGA_AGUA,RIP_R1,RIP_R1_LIGA_BOMB,RIP_R1
+BOMB_SUC_RIP 1
+
+,BOMB_SUC_RIP 3
+,VALV_FLX_ON R1,VALV_FLX_ON R3
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+BOMB_SUC_RIP 2,BOMB_SUC_RIP 4,VALV_FLX_ON R2,VALV_FLX_ON R4
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RIP_R1,RIP_R1,RIP_R1,RIP_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1,RSV_COLA_R1
+CMD_AV_VAL-A,CMD_REC_VAL-A,CMD_AV_VAL-B,CMD_REC_VAL-B
+reserva gripper,reserva gripper,reserva gripper,reserva gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,SOLDA ON,RESET FAULT,RESTART SOLDA
+FIM DE SOLDA,TEST MODE,reserva_tucker,reserva_tucker
+ALIMENTAR HEAD 1,ALIMENTAR HEAD 2,ALIMENTAR HEAD 3,ALIMENTAR HEAD 4
+ALIMENTAR HEAD 5,reserva_tucker,reserva_tucker,reserva_tucker
+START WELD 1,START WELD 2,START WELD 3,START WELD 4
+START WELD 5,AVANCA HEAD 1,AVANCA HEAD 2,AVANCA HEAD 3
+AVANVA HEAD 4,AVANVA HEAD 5,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+STUD ID BIT 1 ,STUD ID BIT 2,STUD ID BIT 3,STUD ID BIT 4
+STUD ID BIT 5,STUD ID BIT 6,STUD ID BIT 7,STUD ID BIT 8
+STUD ID BIT 9,STUD ID BIT 10,STUD ID BIT 11,STUD ID BIT 12
+STUD ID BIT 13,STUD ID BIT 14,STUD ID BIT 15,STUD ID BIT 16
+STUD ID BIT 17,STUD ID BIT 18,STUD ID BIT 19,STUD ID BIT 20
+STUD ID BIT 21,STUD ID BIT 22,STUD ID BIT 23,STUD ID BIT 24
+VALIDA_PROGRA_R2,Not used,START_R2,RST_GERAL_R2
+RST_FALHA_WLD_R2,Reset Faul Rew,Not used,Disable UIR mode
+IGNICAO_R2,Not used,Not used,End component
+Not used,Not used,Not used,Oper Force Sem
+Not used,Not used,Not used,RESET TROCA R2
+Not used,Not used,Not used,RESET DRESSER R2
+Not used,Not used,Tip dress OK,Gun resist adju
+Refer new elect,Refer tip dres,Monitoring weld,Not used
+Start dres tool1,Close Gun 1,Not used,Not used
+Not used,Start dres tool2,Close Gun 2,Not used
+Not used,Not used,Start dres tool3,Close Gun 3
+Not used,Not used,Not used,Not used
+thickness Bit00,thickness Bit01,thickness Bit02,thickness Bit03
+thickness Bit04,thickness Bit05,thickness Bit06,thickness Bit07
+thickness Bit08,thickness Bit09,thickness Bit10,thickness Bit11
+thickness Bit12,thickness Bit13,thickness Bit14,thickness Bit15
+SEL PROG BIT00,SEL PROG BIT01,SEL PROG BIT02,SEL PROG BIT03
+SEL PROG BIT04,SEL PROG BIT05,SEL PROG BIT06,SEL PROG BIT07
+SEL PROG BIT08,SEL PROG BIT09,SEL PROG BIT10,SEL PROG BIT11
+SEL PROG BIT12,SEL PROG BIT13,SEL PROG BIT14,SEL PROG BIT15
+SEL PROG BIT16,SEL PROG BIT17,SEL PROG BIT18,SEL PROG BIT19
+SEL PROG BIT20,SEL PROG BIT21,SEL PROG BIT22,SEL PROG BIT23
+SEL PROG BIT24,SEL PROG BIT25,SEL PROG BIT26,Not used
+Tool Bit00,Tool Bit01,Tool Bit02,Tool Bit03
+Factory Bit00,Factory Bit01,Factory Bit02,Factory Bit03
+Construct Bit00,Construct Bit01,Construct Bit02,Construct Bit03
+Model Bit00,Model Bit01,Model Bit02,Model Bit03
+wheel Bit00,wheel Bit01,wheel Bit02,wheel Bit03
+Type Bit00,Type Bit01,Type Bit02,Type Bit03
+Md range Bit00,Md range Bit01,Md range Bit02,Md range Bit03
+Md range Bit04,Md range Bit05,Md range Bit06,Md range Bit07
+Md range Bit08,Md range Bit09,Not used,Not used
+ASCII0,Bit_0,ASCII0,Bit_1
+ASCII0,Bit_4,ASCII0,Bit_5
+ASCII1,Bit_0,ASCII1,Bit_1
+ASCII1,Bit_4,ASCII1,Bit_5
+ASCII2,Bit_0,ASCII2,Bit_1
+ASCII2,Bit_4,ASCII2,Bit_5
+ASCII3,Bit_0,ASCII3,Bit_1
+ASCII3,Bit_4,ASCII3,Bit_5
+ASCII4,Bit_0,ASCII4,Bit_1
+ASCII4,Bit_4,ASCII4,Bit_5
+ASCII5,Bit_0,ASCII5,Bit_1
+ASCII5,Bit_4,ASCII5,Bit_5
+ASCII6,Bit_0,ASCII6,Bit_1
+ASCII6,Bit_4,ASCII6,Bit_5
+ASCII7,Bit_0,ASCII7,Bit_1
+ASCII7,Bit_4,ASCII7,Bit_5
+ASCII8,Bit_0,ASCII8,Bit_1
+ASCII8,Bit_4,ASCII8,Bit_5
+ASCII9,Bit_0,ASCII9,Bit_1
+ASCII9,Bit_4,ASCII9,Bit_5
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+CMD_LIGA_DRESS,CMD_SOPRAD_AR,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2,RSV_DRSSR_R2
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+VALV_FLX_ON R2,BOMBA_SUC_RIP 2,,
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RIP_R2,RIP_R2,RIP_R2,RIP_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2,RSV_COLA_R2
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+VALIDA_PROGRA_R3,Not used,START_R3,RST_GERAL_R3
+RST_FALHA_WLD_R3,Reset Faul Rew,Not used,Disable UIR mode
+IGNICAO_R3,Not used,Not used,End component
+Not used,Not used,Not used,Oper Force Sem
+Not used,Not used,Not used,RESET TROCA R3
+Not used,Not used,Not used,RESET DRESSER R3
+Not used,Not used,Tip dress OK,Gun resist adju
+Refer new elect,Refer tip dres,Monitoring weld,Not used
+Start dres tool1,Close Gun 1,Not used,Not used
+Not used,Start dres tool2,Close Gun 2,Not used
+Not used,Not used,Start dres tool3,Close Gun 3
+Not used,Not used,Not used,Not used
+thickness Bit00,thickness Bit01,thickness Bit02,thickness Bit03
+thickness Bit04,thickness Bit05,thickness Bit06,thickness Bit07
+thickness Bit08,thickness Bit09,thickness Bit10,thickness Bit11
+thickness Bit12,thickness Bit13,thickness Bit14,thickness Bit15
+SEL PROG BIT00,SEL PROG BIT01,SEL PROG BIT02,SEL PROG BIT03
+SEL PROG BIT04,SEL PROG BIT05,SEL PROG BIT06,SEL PROG BIT07
+SEL PROG BIT08,SEL PROG BIT09,SEL PROG BIT10,SEL PROG BIT11
+SEL PROG BIT12,SEL PROG BIT13,SEL PROG BIT14,SEL PROG BIT15
+SEL PROG BIT16,SEL PROG BIT17,SEL PROG BIT18,SEL PROG BIT19
+SEL PROG BIT20,SEL PROG BIT21,SEL PROG BIT22,SEL PROG BIT23
+SEL PROG BIT24,SEL PROG BIT25,SEL PROG BIT26,Not used
+Tool Bit00,Tool Bit01,Tool Bit02,Tool Bit03
+Factory Bit00,Factory Bit01,Factory Bit02,Factory Bit03
+Construct Bit00,Construct Bit01,Construct Bit02,Construct Bit03
+Model Bit00,Model Bit01,Model Bit02,Model Bit03
+wheel Bit00,wheel Bit01,wheel Bit02,wheel Bit03
+Type Bit00,Type Bit01,Type Bit02,Type Bit03
+Md range Bit00,Md range Bit01,Md range Bit02,Md range Bit03
+Md range Bit04,Md range Bit05,Md range Bit06,Md range Bit07
+Md range Bit08,Md range Bit09,Not used,Not used
+ASCII0,Bit_0,ASCII0,Bit_1
+ASCII0,Bit_4,ASCII0,Bit_5
+ASCII1,Bit_0,ASCII1,Bit_1
+ASCII1,Bit_4,ASCII1,Bit_5
+ASCII2,Bit_0,ASCII2,Bit_1
+ASCII2,Bit_4,ASCII2,Bit_5
+ASCII3,Bit_0,ASCII3,Bit_1
+ASCII3,Bit_4,ASCII3,Bit_5
+ASCII4,Bit_0,ASCII4,Bit_1
+ASCII4,Bit_4,ASCII4,Bit_5
+ASCII5,Bit_0,ASCII5,Bit_1
+ASCII5,Bit_4,ASCII5,Bit_5
+ASCII6,Bit_0,ASCII6,Bit_1
+ASCII6,Bit_4,ASCII6,Bit_5
+ASCII7,Bit_0,ASCII7,Bit_1
+ASCII7,Bit_4,ASCII7,Bit_5
+ASCII8,Bit_0,ASCII8,Bit_1
+ASCII8,Bit_4,ASCII8,Bit_5
+ASCII9,Bit_0,ASCII9,Bit_1
+ASCII9,Bit_4,ASCII9,Bit_5
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+CMD_LIGA_DRESSER,CMD_SOPRAD_AR,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3,RSV_DRSSR_R3
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+VALV_FLX_ON R3,BOMBA_SUC_RIP 2,,
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RIP_R3,RIP_R3,RIP_R3,RIP_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3,RSV_COLA_R3
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+VALIDA_PROGRA_R4,Not used,START_R4,RST_GERAL_R4
+RST_FALHA_WLD_R4,Reset Faul Rew,Not used,Disable UIR mode
+IGNICAO_R4,Not used,Not used,End component
+Not used,Not used,Not used,Oper Force Sem
+Not used,Not used,Not used,RESET TROCA R4
+Not used,Not used,Not used,RESET DRESSER R4
+Not used,Not used,Tip dress OK,Gun resist adju
+Refer new elect,Refer tip dres,Monitoring weld,Not used
+Start dres tool1,Close Gun 1,Not used,Not used
+Not used,Start dres tool2,Close Gun 2,Not used
+Not used,Not used,Start dres tool3,Close Gun 3
+Not used,Not used,Not used,Not used
+thickness Bit00,thickness Bit01,thickness Bit02,thickness Bit03
+thickness Bit04,thickness Bit05,thickness Bit06,thickness Bit07
+thickness Bit08,thickness Bit09,thickness Bit10,thickness Bit11
+thickness Bit12,thickness Bit13,thickness Bit14,thickness Bit15
+SEL PROG BIT00,SEL PROG BIT01,SEL PROG BIT02,SEL PROG BIT03
+SEL PROG BIT04,SEL PROG BIT05,SEL PROG BIT06,SEL PROG BIT07
+SEL PROG BIT08,SEL PROG BIT09,SEL PROG BIT10,SEL PROG BIT11
+SEL PROG BIT12,SEL PROG BIT13,SEL PROG BIT14,SEL PROG BIT15
+SEL PROG BIT16,SEL PROG BIT17,SEL PROG BIT18,SEL PROG BIT19
+SEL PROG BIT20,SEL PROG BIT21,SEL PROG BIT22,SEL PROG BIT23
+SEL PROG BIT24,SEL PROG BIT25,SEL PROG BIT26,Not used
+Tool Bit00,Tool Bit01,Tool Bit02,Tool Bit03
+Factory Bit00,Factory Bit01,Factory Bit02,Factory Bit03
+Construct Bit00,Construct Bit01,Construct Bit02,Construct Bit03
+Model Bit00,Model Bit01,Model Bit02,Model Bit03
+wheel Bit00,wheel Bit01,wheel Bit02,wheel Bit03
+Type Bit00,Type Bit01,Type Bit02,Type Bit03
+Md range Bit00,Md range Bit01,Md range Bit02,Md range Bit03
+Md range Bit04,Md range Bit05,Md range Bit06,Md range Bit07
+Md range Bit08,Md range Bit09,Not used,Not used
+ASCII0,Bit_0,ASCII0,Bit_1
+ASCII0,Bit_4,ASCII0,Bit_5
+ASCII1,Bit_0,ASCII1,Bit_1
+ASCII1,Bit_4,ASCII1,Bit_5
+ASCII2,Bit_0,ASCII2,Bit_1
+ASCII2,Bit_4,ASCII2,Bit_5
+ASCII3,Bit_0,ASCII3,Bit_1
+ASCII3,Bit_4,ASCII3,Bit_5
+ASCII4,Bit_0,ASCII4,Bit_1
+ASCII4,Bit_4,ASCII4,Bit_5
+ASCII5,Bit_0,ASCII5,Bit_1
+ASCII5,Bit_4,ASCII5,Bit_5
+ASCII6,Bit_0,ASCII6,Bit_1
+ASCII6,Bit_4,ASCII6,Bit_5
+ASCII7,Bit_0,ASCII7,Bit_1
+ASCII7,Bit_4,ASCII7,Bit_5
+ASCII8,Bit_0,ASCII8,Bit_1
+ASCII8,Bit_4,ASCII8,Bit_5
+ASCII9,Bit_0,ASCII9,Bit_1
+ASCII9,Bit_4,ASCII9,Bit_5
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld,reserv_cmd_weld
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+CMD_LIGA_DRESSER,CMD_SOPRAD_AR,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4,RSV_DRSSR_R4
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RSV_BM,RSV_BM,RSV_BM,RSV_BM
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+VALV_FLX_ON R2,BOMBA_SUC_RIP 2,,
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RIP_R4,RIP_R4,RIP_R4,RIP_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4,RSV_COLA_R4
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_gripper,reserva_gripper,reserva_gripper,reserva_gripper
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+reserva_tucker,reserva_tucker,reserva_tucker,reserva_tucker
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CAPA NOVA R1,CAPA NOVA R2,CAPA NOVA R3,CAPA NOVA R4
+LIMITE CAPA R1,LIMITE CAPA R2,LIMITE CAPA R3,LIMITE CAPA R4
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+CMD-TOP_MASTER,CMD-SERVO_OFF,CMD-SERVO_ON,CMD-HOLD
+CMD-START,CMD_ALARM,CMD-DRY_RUN,CMD-WELD_OFF
+CMD-SPEEDLIMIT,RESERVA,REMOTO ,PLAY
+MAJORALARM,MINORALARM,SYTEMALARM,USERALARM
+TABLE_1_READY,TABLE_2_READY,TABLE_3_READY,TABLE_4_READY
+TABLE_5_READY,TABLE_6_READY,TABLE_7_READY,TABLE_8_READY
+NO_STATUS_ALARM,NO_STATUS_ALARM,NO_STATUS_ALARM,NO_STATUS_ALARM
+NO_STATUS_ALARM,NO_STATUS_ALARM,NO_STATUS_ALARM,NO_STATUS_ALARM
+Byte[05].1_RESV,Byte[05].2_RESV,Byte[05].3_RESV,Byte[05].4_RESV
+Byte[05].5_RESV,Byte[05].6_RESV,Byte[05].7_RESV,Byte[05].8_RESV
+Byte[06].1_RESV,Byte[06].2_RESV,Byte[06].3_RESV,Byte[06].4_RESV
+Byte[06].5_RESV,Byte[06].6_RESV,Byte[06].7_RESV,Byte[06].8_RESV
+Byte[07].1_RESV,Byte[07].2_RESV,Byte[07].3_RESV,Byte[07].4_RESV
+Byte[07].5_RESV,Byte[07].6_RESV,Byte[07].7_RESV,Byte[07].8_RESV
+BYTE[08].1_RESV,BYTE[08].2_RESV,BYTE[08].3_RESV,BYTE[08].4_RESV
+BYTE[08].5_RESV,BYTE[08].6_RESV,BYTE[08].7_RESV,BYTE[08].8_RESV
+ACK-HOME_POS_R1,ACK-MANUT_POS_R1,ACK-FRS/DRS_POS,ACK-TPCHNGE_POS
+ACK-TCP_POS_R1,MSG-TPCHNGE_NOK,MSG-ARC/SPOT_ON,MSG-ROBT_MOV_ON
+ACK-OP1_LA,ACK-OP2_LA,ACK-OP3_LA,ACK-OP4_LA
+ACK-OP5_LA,ACK-OP6_LA,ACK-OP7_LA,ACK-OP8_LA
+CMD-EVNWORK1_LA,CMD-EVNWORK2_LA,CMD-EVNWORK3_LA,CMD-EVNWORK4_LA
+CMD-EVNWORK5_LA,CMD-EVNWORK6_LA,CMD-EVNWORK7_LA,CMD-EVNWORK8_LA
+ACK-OP1_LB,ACK-OP2_LB,ACK-OP3_LB,ACK-OP4_LB
+ACK-OP5_LB,ACK-OP6_LB,ACK-OP7_LB,ACK-OP8_LB
+CMD-EVNWORK1_LB,CMD-EVNWORK2_LB,CMD-EVNWORK3_LB,CMD-EVNWORK4_LB
+CMD-EVNWORK5_LB,CMD-EVNWORK6_LB,CMD-EVNWORK7_LB,CMD-EVNWORK8_LB
+FLTDEVCSLAVE-B0,FLTDEVCSLAVE-B1,FLTDEVCSLAVE-B2,FLTDEVCSLAVE-B3
+FLTDEVCSLAVE-B4,FLTDEVCSLAVE-B5,FLTDEVCSLAVE-B6,FLTDEVCSLAVE-B7
+ACK-ENTRYDOOR,FLT-FLOW_WATER,FLT-TEMP_WATER,ACK-PR_AIR_MAX
+ACK-PRE_AIR_MIN,FLT-ROT_DRESS,ACK-INTLOCK_R1,CMD-STOP_WELD
+CMD-AV_VALVE_A,CMD-REC_VALVE_A,CMD-AV_VALVE_B,CMD-REC_VALVE_B
+CMD-AV_VALVE_C,CMD-REC_VALVE_C,CMD-AV_VALVE_D,CMD-REC_VALVE_D
+CMD-AV_VALVE_E,CMD-REC_VALVE_E,CMD-AV_VALVE_F,CMD-REC_VALVE_F
+CMD-AV_VALVE_G,CMD-REC_VALVE_G,CMD-AV_VALVE_H,CMD-REC_VALVE_H
+CMD-AV_VALVE_I,CMD-REC_VALVE_I,CMD-AV_VALVE_J,CMD-REC_VALVE_J
+CMD-AV_VALVE_K,CMD-REC_VALVE_K,CMD-AV_VALVE_L,CMD-REC_VALVE_L
+CMD-AV_VALVE_M,CMD-REC_VALVE_M,CMD-AV_VALVE_N,CMD-REC_VALVE_N
+CMD-AV_VALVE_O,CMD-REC_VALVE_O,CMD-AV_VALVE_P,CMD-REC_VALVE_P
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+ACK-HOME_POS_R2,ACK-MANU_POS_R2,ACK-FRS/DRS_POS,ACK-TPCHNGE_POS
+ACK-TCP_POS_R2,MSG-TPCHNGE_NOK,MSG-ARC/SPOT_ON,MSG-ROBT_MOV_ON
+ACK-OP1_LA,ACK-OP2_LA,ACK-OP3_LA,ACK-OP4_LA
+ACK-OP5_LA,ACK-OP6_LA,ACK-OP7_LA,ACK-OP8_LA
+CMD-EVNWORK1_LA,CMD-EVNWORK2_LA,CMD-EVNWORK3_LA,CMD-EVNWORK4_LA
+CMD-EVNWORK5_LA,CMD-EVNWORK6_LA,CMD-EVNWORK7_LA,CMD-EVNWORK8_LA
+ACK-OP1_LB,ACK-OP2_LB,ACK-OP3_LB,ACK-OP4_LB
+ACK-OP5_LB,ACK-OP6_LB,ACK-OP7_LB,ACK-OP8_LB
+CMD-EVNWORK1_LB,CMD-EVNWORK2_LB,CMD-EVNWORK3_LB,CMD-EVNWORK4_LB
+CMD-EVNWORK5_LB,CMD-EVNWORK6_LB,CMD-EVNWORK7_LB,CMD-EVNWORK8_LB
+FLTDEVCSLAVE-B0,FLTDEVCSLAVE-B1,FLTDEVCSLAVE-B2,FLTDEVCSLAVE-B3
+FLTDEVCSLAVE-B4,FLTDEVCSLAVE-B5,FLTDEVCSLAVE-B6,FLTDEVCSLAVE-B7
+ACK-ENTRYDOOR,FLT-FLOW_WATER,FLT-TEMP_WATER,ACK-PRES_AIR_MAX
+ACK-PRES_AIR_MIN,FLT-ROT_DRESS,ACK-INTLOCK_R2,CMD-STOP_WELD
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+ACK-HOME_POS_R3,ACK-MANUT_POS_R3,ACK-FRS/DRS_POS,ACK-TPCHNGE_POS
+ACK-TCP_POS_R3,MSG-TPCHNGE_NOK,MSG-ARC/SPOT_ON,MSG-ROBT_MOV_ON
+ACK-OP1_LA,ACK-OP2_LA,ACK-OP3_LA,ACK-OP4_LA
+ACK-OP5_LA,ACK-OP6_LA,ACK-OP7_LA,ACK-OP8_LA
+CMD-EVNWORK1_LA,CMD-EVNWORK2_LA,CMD-EVNWORK3_LA,CMD-EVNWORK4_LA
+CMD-EVNWORK5_LA,CMD-EVNWORK6_LA,CMD-EVNWORK7_LA,CMD-EVNWORK8_LA
+ACK-OP1_LB,ACK-OP2_LB,ACK-OP3_LB,ACK-OP4_LB
+ACK-OP5_LB,ACK-OP6_LB,ACK-OP7_LB,ACK-OP8_LB
+CMD-EVNWORK1_LB,CMD-EVNWORK2_LB,CMD-EVNWORK3_LB,CMD-EVNWORK4_LB
+CMD-EVNWORK5_LB,CMD-EVNWORK6_LB,CMD-EVNWORK7_LB,CMD-EVNWORK8_LB
+FLTDEVCSLAVE-B0,FLTDEVCSLAVE-B1,FLTDEVCSLAVE-B2,FLTDEVCSLAVE-B3
+FLTDEVCSLAVE-B4,FLTDEVCSLAVE-B5,FLTDEVCSLAVE-B6,FLTDEVCSLAVE-B7
+ACK-ENTRYDOOR,FLT-FLOW_WATER,FLT-TEMP_WATER,ACK-PRES_AIR_MAX
+ACK-PRES_AIR_MIN,FLT-ROT_DRESS,ACK-INTLOCK_R3,CMD-STOP_WELD
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+ACK-HOME_POS_R4,ACK-MANUT_POS_R4,ACK-FRS/DRS_POS,ACK-TPCHNGE_POS
+ACK-TCP_POS_R4,MSG-TPCHNGE_NOK,MSG-ARC/SPOT_ON,MSG-ROBT_MOV_ON
+ACK-OP1_LA,ACK-OP2_LA,ACK-OP3_LA,ACK-OP4_LA
+ACK-OP5_LA,ACK-OP6_LA,ACK-OP7_LA,ACK-OP8_LA
+CMD-EVNWORK1_LA,CMD-EVNWORK2_LA,CMD-EVNWORK3_LA,CMD-EVNWORK4_LA
+CMD-EVNWORK5_LA,CMD-EVNWORK6_LA,CMD-EVNWORK7_LA,CMD-EVNWORK8_LA
+ACK-OP1_LB,ACK-OP2_LB,ACK-OP3_LB,ACK-OP4_LB
+ACK-OP5_LB,ACK-OP6_LB,ACK-OP7_LB,ACK-OP8_LB
+CMD-EVNWORK1_LB,CMD-EVNWORK2_LB,CMD-EVNWORK3_LB,CMD-EVNWORK4_LB
+CMD-EVNWORK5_LB,CMD-EVNWORK6_LB,CMD-EVNWORK7_LB,CMD-EVNWORK8_LB
+FLTDEVCSLAVE-B0,FLTDEVCSLAVE-B1,FLTDEVCSLAVE-B2,FLTDEVCSLAVE-B3
+FLTDEVCSLAVE-B4,FLTDEVCSLAVE-B5,FLTDEVCSLAVE-B6,FLTDEVCSLAVE-B7
+ACK-ENTRYDOOR,FLT-FLOW_WATER,FLT-TEMP_WATER,ACK-PRES_AIR_MAX
+ACK-PRES_AIR_MIN,FLT-ROT_DRESS,ACK-INTLOCK_R4,CMD-STOP_WELD
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

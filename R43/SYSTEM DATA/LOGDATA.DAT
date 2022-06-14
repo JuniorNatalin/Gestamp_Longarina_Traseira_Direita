@@ -1,0 +1,5326 @@
+//LOGDATA
+///INDEX 1
+DATE              :2022/06/14 04:18:13
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GARRA
+LINE              :0009
+STOP FACTOR       :KEY OFF
+
+///INDEX 2
+DATE              :2022/06/14 04:18:12
+EVENT             :TEST
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0000
+
+///INDEX 3
+DATE              :2022/06/14 04:18:06
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 4
+DATE              :2022/06/14 04:17:00
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0030
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 5
+DATE              :2022/06/14 04:17:00
+EVENT             :TEST
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0030
+
+///INDEX 6
+DATE              :2022/06/14 04:16:54
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0030
+STOP FACTOR       :SERVO OFF
+DETAIL FACTOR 1   :ALARM STOP QUE
+
+///INDEX 7
+DATE              :2022/06/14 04:16:49
+EVENT             :TEST
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0001
+
+///INDEX 8
+DATE              :2022/06/14 04:16:49
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0001
+STOP FACTOR       :KEY OFF
+
+///INDEX 9
+DATE              :2022/06/14 04:16:47
+EVENT             :TEST
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+LINE              :0000
+
+///INDEX 10
+DATE              :2022/06/14 04:16:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 11
+DATE              :2022/06/14 04:09:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R43_HA_OP150
+
+///INDEX 12
+DATE              :2022/06/14 04:08:36
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP150
+
+///INDEX 13
+DATE              :2022/06/14 04:08:28
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP150
+
+///INDEX 14
+DATE              :2022/06/14 04:08:10
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R43_HA_OP150
+
+///INDEX 15
+DATE              :2022/06/14 04:07:58
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP150
+
+///INDEX 16
+DATE              :2022/06/14 04:07:52
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_SW_OP140
+
+///INDEX 17
+DATE              :2022/06/14 03:56:53
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TROCA_ELETRODO
+
+///INDEX 18
+DATE              :2022/06/14 03:54:04
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 19
+DATE              :2022/06/14 03:53:59
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TROCA_CAPA
+
+///INDEX 20
+DATE              :2022/06/14 03:53:55
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :DRESSER
+
+///INDEX 21
+DATE              :2022/06/14 03:53:46
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :DRESS
+
+///INDEX 22
+DATE              :2022/06/14 03:53:22
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP150
+
+///INDEX 23
+DATE              :2022/06/14 03:53:19
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 24
+DATE              :2022/06/14 03:52:57
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_SW_OP140
+
+///INDEX 25
+DATE              :2022/06/14 03:52:35
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R43_SW_OP140
+
+///INDEX 26
+DATE              :2022/06/14 03:46:30
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 27
+DATE              :2022/06/14 03:46:07
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R43_HA_OP130
+
+///INDEX 28
+DATE              :2022/06/14 03:20:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 29
+DATE              :2022/06/14 03:20:09
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_SW_OP140
+
+///INDEX 30
+DATE              :2022/06/14 03:19:35
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :S2C
+PARAMETER NUMBER  :216
+BEFORE EDIT       :1
+AFTER EDIT        :3
+
+///INDEX 31
+DATE              :2022/06/14 03:19:22
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_SW_OP140
+
+///INDEX 32
+DATE              :2022/06/14 02:54:38
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :EX VAR            
+VARIABLE NUMBER   :10
+SET VALUE          PULSE             --> PULSE            
+                   S1 :1       57494 --> S1 :1       56001
+
+///INDEX 33
+DATE              :2022/06/14 02:38:01
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R43_HA_OP130
+
+///INDEX 34
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTE1
+
+///INDEX 35
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTE2
+
+///INDEX 36
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTE3
+
+///INDEX 37
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTE
+
+///INDEX 38
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTE_PRESSAO
+
+///INDEX 39
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TSTSOLDA
+
+///INDEX 40
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :ABRE_GRAMPOS
+
+///INDEX 41
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :RECUA_PINOS
+
+///INDEX 42
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :FECHA_GRAMPOS
+
+///INDEX 43
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 44
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 45
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 46
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :VERIFICA_GRP_REC
+
+///INDEX 47
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :DRESSER
+
+///INDEX 48
+DATE              :2022/06/14 02:17:17
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TROCA_CAPA
+
+///INDEX 49
+DATE              :2022/06/14 02:12:58
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 50
+DATE              :2022/06/14 02:12:58
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 51
+DATE              :2022/06/14 02:12:58
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 52
+DATE              :2022/06/14 02:12:39
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 53
+DATE              :2022/06/14 02:12:01
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 54
+DATE              :2022/06/14 02:11:58
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :S2C
+PARAMETER NUMBER  :216
+BEFORE EDIT       :3
+AFTER EDIT        :1
+
+///INDEX 55
+DATE              :2022/06/14 00:45:31
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 56
+DATE              :2022/06/14 00:41:46
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :RS
+PARAMETER NUMBER  :59
+BEFORE EDIT       :1
+AFTER EDIT        :3
+
+///INDEX 57
+DATE              :2022/06/14 00:41:44
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :RS
+PARAMETER NUMBER  :59
+BEFORE EDIT       :0
+AFTER EDIT        :1
+
+///INDEX 58
+DATE              :2022/06/14 00:41:07
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0001
+STOP FACTOR       :KEY OFF
+
+///INDEX 59
+DATE              :2022/06/14 00:40:49
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0001
+
+///INDEX 60
+DATE              :2022/06/14 00:40:49
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0001
+STOP FACTOR       :KEY OFF
+
+///INDEX 61
+DATE              :2022/06/14 00:40:48
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0001
+
+///INDEX 62
+DATE              :2022/06/14 00:40:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0000
+STOP FACTOR       :DONE
+
+///INDEX 63
+DATE              :2022/06/14 00:40:46
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0000
+
+///INDEX 64
+DATE              :2022/06/14 00:40:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0000
+STOP FACTOR       :DONE
+
+///INDEX 65
+DATE              :2022/06/14 00:40:46
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+LINE              :0000
+
+///INDEX 66
+DATE              :2022/06/14 00:40:44
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 67
+DATE              :2022/06/14 00:40:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0140
+STOP FACTOR       :DONE
+
+///INDEX 68
+DATE              :2022/06/14 00:40:37
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0140
+
+///INDEX 69
+DATE              :2022/06/14 00:40:36
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0140
+STOP FACTOR       :DONE
+
+///INDEX 70
+DATE              :2022/06/14 00:40:25
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0139
+
+///INDEX 71
+DATE              :2022/06/14 00:40:24
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0139
+STOP FACTOR       :DONE
+
+///INDEX 72
+DATE              :2022/06/14 00:40:23
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0139
+
+///INDEX 73
+DATE              :2022/06/14 00:40:16
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0139
+STOP FACTOR       :KEY OFF
+
+///INDEX 74
+DATE              :2022/06/14 00:40:14
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+
+///INDEX 75
+DATE              :2022/06/14 00:40:12
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+STOP FACTOR       :DONE
+
+///INDEX 76
+DATE              :2022/06/14 00:40:11
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+
+///INDEX 77
+DATE              :2022/06/14 00:40:11
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+STOP FACTOR       :KEY OFF
+
+///INDEX 78
+DATE              :2022/06/14 00:40:10
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+
+///INDEX 79
+DATE              :2022/06/14 00:39:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0138
+STOP FACTOR       :KEY OFF
+
+///INDEX 80
+DATE              :2022/06/14 00:39:50
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0137
+
+///INDEX 81
+DATE              :2022/06/14 00:39:50
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0137
+STOP FACTOR       :DONE
+
+///INDEX 82
+DATE              :2022/06/14 00:39:49
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0136
+
+///INDEX 83
+DATE              :2022/06/14 00:39:48
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0136
+STOP FACTOR       :DONE
+
+///INDEX 84
+DATE              :2022/06/14 00:39:48
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0135
+
+///INDEX 85
+DATE              :2022/06/14 00:39:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0135
+STOP FACTOR       :DONE
+
+///INDEX 86
+DATE              :2022/06/14 00:39:44
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0134
+
+///INDEX 87
+DATE              :2022/06/14 00:39:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0134
+STOP FACTOR       :DONE
+
+///INDEX 88
+DATE              :2022/06/14 00:39:39
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 89
+DATE              :2022/06/14 00:39:38
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+STOP FACTOR       :DONE
+
+///INDEX 90
+DATE              :2022/06/14 00:39:38
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 91
+DATE              :2022/06/14 00:39:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+STOP FACTOR       :KEY OFF
+
+///INDEX 92
+DATE              :2022/06/14 00:39:37
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 93
+DATE              :2022/06/14 00:39:37
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+STOP FACTOR       :KEY OFF
+
+///INDEX 94
+DATE              :2022/06/14 00:39:36
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 95
+DATE              :2022/06/14 00:39:36
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+STOP FACTOR       :KEY OFF
+
+///INDEX 96
+DATE              :2022/06/14 00:39:32
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 97
+DATE              :2022/06/14 00:39:31
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+STOP FACTOR       :KEY OFF
+
+///INDEX 98
+DATE              :2022/06/14 00:39:31
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0133
+
+///INDEX 99
+DATE              :2022/06/14 00:39:29
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0130
+STOP FACTOR       :DONE
+
+///INDEX 100
+DATE              :2022/06/14 00:39:29
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0130
+
+///INDEX 101
+DATE              :2022/06/14 00:39:27
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0130
+STOP FACTOR       :DONE
+
+///INDEX 102
+DATE              :2022/06/14 00:39:25
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0129
+
+///INDEX 103
+DATE              :2022/06/14 00:39:24
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0129
+STOP FACTOR       :DONE
+
+///INDEX 104
+DATE              :2022/06/14 00:39:24
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0128
+
+///INDEX 105
+DATE              :2022/06/14 00:39:23
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0128
+STOP FACTOR       :DONE
+
+///INDEX 106
+DATE              :2022/06/14 00:39:23
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0128
+
+///INDEX 107
+DATE              :2022/06/14 00:39:22
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0128
+STOP FACTOR       :KEY OFF
+
+///INDEX 108
+DATE              :2022/06/14 00:39:22
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0127
+
+///INDEX 109
+DATE              :2022/06/14 00:39:21
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0127
+STOP FACTOR       :DONE
+
+///INDEX 110
+DATE              :2022/06/14 00:39:20
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+
+///INDEX 111
+DATE              :2022/06/14 00:39:18
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+STOP FACTOR       :DONE
+
+///INDEX 112
+DATE              :2022/06/14 00:39:12
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+
+///INDEX 113
+DATE              :2022/06/14 00:39:11
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+STOP FACTOR       :KEY OFF
+
+///INDEX 114
+DATE              :2022/06/14 00:39:11
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+
+///INDEX 115
+DATE              :2022/06/14 00:39:11
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+STOP FACTOR       :KEY OFF
+
+///INDEX 116
+DATE              :2022/06/14 00:39:11
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+
+///INDEX 117
+DATE              :2022/06/14 00:39:10
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+STOP FACTOR       :KEY OFF
+
+///INDEX 118
+DATE              :2022/06/14 00:39:10
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0126
+
+///INDEX 119
+DATE              :2022/06/14 00:38:17
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :DONE
+
+///INDEX 120
+DATE              :2022/06/14 00:38:17
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 121
+DATE              :2022/06/14 00:38:16
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :DONE
+
+///INDEX 122
+DATE              :2022/06/14 00:38:16
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 123
+DATE              :2022/06/14 00:38:15
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :DONE
+
+///INDEX 124
+DATE              :2022/06/14 00:38:15
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 125
+DATE              :2022/06/14 00:38:15
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 126
+DATE              :2022/06/14 00:38:15
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 127
+DATE              :2022/06/14 00:38:14
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 128
+DATE              :2022/06/14 00:38:13
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 129
+DATE              :2022/06/14 00:38:13
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 130
+DATE              :2022/06/14 00:38:13
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 131
+DATE              :2022/06/14 00:38:12
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 132
+DATE              :2022/06/14 00:38:12
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 133
+DATE              :2022/06/14 00:38:10
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 134
+DATE              :2022/06/14 00:38:10
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+
+///INDEX 135
+DATE              :2022/06/14 00:38:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0123
+STOP FACTOR       :KEY OFF
+
+///INDEX 136
+DATE              :2022/06/14 00:38:09
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 137
+DATE              :2022/06/14 00:38:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :DONE
+
+///INDEX 138
+DATE              :2022/06/14 00:38:09
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 139
+DATE              :2022/06/14 00:38:08
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :KEY OFF
+
+///INDEX 140
+DATE              :2022/06/14 00:38:08
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 141
+DATE              :2022/06/14 00:38:08
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :KEY OFF
+
+///INDEX 142
+DATE              :2022/06/14 00:38:08
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 143
+DATE              :2022/06/14 00:38:07
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :KEY OFF
+
+///INDEX 144
+DATE              :2022/06/14 00:38:07
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 145
+DATE              :2022/06/14 00:38:07
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :KEY OFF
+
+///INDEX 146
+DATE              :2022/06/14 00:38:07
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+
+///INDEX 147
+DATE              :2022/06/14 00:38:06
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0122
+STOP FACTOR       :KEY OFF
+
+///INDEX 148
+DATE              :2022/06/14 00:38:06
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+
+///INDEX 149
+DATE              :2022/06/14 00:38:05
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+STOP FACTOR       :DONE
+
+///INDEX 150
+DATE              :2022/06/14 00:38:05
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+
+///INDEX 151
+DATE              :2022/06/14 00:38:05
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+STOP FACTOR       :KEY OFF
+
+///INDEX 152
+DATE              :2022/06/14 00:38:05
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+
+///INDEX 153
+DATE              :2022/06/14 00:38:04
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+STOP FACTOR       :KEY OFF
+
+///INDEX 154
+DATE              :2022/06/14 00:38:04
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+
+///INDEX 155
+DATE              :2022/06/14 00:38:04
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+STOP FACTOR       :KEY OFF
+
+///INDEX 156
+DATE              :2022/06/14 00:38:04
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+
+///INDEX 157
+DATE              :2022/06/14 00:38:03
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0121
+STOP FACTOR       :KEY OFF
+
+///INDEX 158
+DATE              :2022/06/14 00:38:03
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0120
+
+///INDEX 159
+DATE              :2022/06/14 00:38:01
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0120
+STOP FACTOR       :DONE
+
+///INDEX 160
+DATE              :2022/06/14 00:38:00
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0120
+
+///INDEX 161
+DATE              :2022/06/14 00:38:00
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0120
+STOP FACTOR       :KEY OFF
+
+///INDEX 162
+DATE              :2022/06/14 00:38:00
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0119
+
+///INDEX 163
+DATE              :2022/06/14 00:37:59
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0119
+STOP FACTOR       :DONE
+
+///INDEX 164
+DATE              :2022/06/14 00:37:59
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0119
+
+///INDEX 165
+DATE              :2022/06/14 00:37:59
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0119
+STOP FACTOR       :KEY OFF
+
+///INDEX 166
+DATE              :2022/06/14 00:37:58
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+
+///INDEX 167
+DATE              :2022/06/14 00:37:57
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+STOP FACTOR       :DONE
+
+///INDEX 168
+DATE              :2022/06/14 00:37:57
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+
+///INDEX 169
+DATE              :2022/06/14 00:37:57
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+STOP FACTOR       :KEY OFF
+
+///INDEX 170
+DATE              :2022/06/14 00:37:56
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+
+///INDEX 171
+DATE              :2022/06/14 00:37:56
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+STOP FACTOR       :KEY OFF
+
+///INDEX 172
+DATE              :2022/06/14 00:37:56
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+
+///INDEX 173
+DATE              :2022/06/14 00:37:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0118
+STOP FACTOR       :KEY OFF
+
+///INDEX 174
+DATE              :2022/06/14 00:37:55
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0117
+
+///INDEX 175
+DATE              :2022/06/14 00:37:55
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0117
+STOP FACTOR       :KEY OFF
+
+///INDEX 176
+DATE              :2022/06/14 00:37:55
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0117
+
+///INDEX 177
+DATE              :2022/06/14 00:37:53
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0114
+STOP FACTOR       :DONE
+
+///INDEX 178
+DATE              :2022/06/14 00:37:53
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0114
+
+///INDEX 179
+DATE              :2022/06/14 00:37:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0114
+STOP FACTOR       :DONE
+
+///INDEX 180
+DATE              :2022/06/14 00:37:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0114
+
+///INDEX 181
+DATE              :2022/06/14 00:37:51
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0114
+STOP FACTOR       :DONE
+
+///INDEX 182
+DATE              :2022/06/14 00:37:50
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0113
+
+///INDEX 183
+DATE              :2022/06/14 00:37:49
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0113
+STOP FACTOR       :DONE
+
+///INDEX 184
+DATE              :2022/06/14 00:37:49
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0113
+
+///INDEX 185
+DATE              :2022/06/14 00:37:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0110
+STOP FACTOR       :DONE
+
+///INDEX 186
+DATE              :2022/06/14 00:37:46
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0110
+
+///INDEX 187
+DATE              :2022/06/14 00:37:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0110
+STOP FACTOR       :DONE
+
+///INDEX 188
+DATE              :2022/06/14 00:37:45
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0109
+
+///INDEX 189
+DATE              :2022/06/14 00:37:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0109
+STOP FACTOR       :DONE
+
+///INDEX 190
+DATE              :2022/06/14 00:37:43
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0108
+
+///INDEX 191
+DATE              :2022/06/14 00:37:42
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0108
+STOP FACTOR       :DONE
+
+///INDEX 192
+DATE              :2022/06/14 00:37:41
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0107
+
+///INDEX 193
+DATE              :2022/06/14 00:37:40
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0107
+STOP FACTOR       :DONE
+
+///INDEX 194
+DATE              :2022/06/14 00:37:39
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0106
+
+///INDEX 195
+DATE              :2022/06/14 00:37:38
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0106
+STOP FACTOR       :DONE
+
+///INDEX 196
+DATE              :2022/06/14 00:37:37
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0105
+
+///INDEX 197
+DATE              :2022/06/14 00:37:36
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0105
+STOP FACTOR       :DONE
+
+///INDEX 198
+DATE              :2022/06/14 00:37:35
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0104
+
+///INDEX 199
+DATE              :2022/06/14 00:37:34
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0104
+STOP FACTOR       :DONE
+
+///INDEX 200
+DATE              :2022/06/14 00:37:32
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+
+///INDEX 201
+DATE              :2022/06/14 00:37:31
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+STOP FACTOR       :DONE
+
+///INDEX 202
+DATE              :2022/06/14 00:37:29
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+
+///INDEX 203
+DATE              :2022/06/14 00:37:27
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+STOP FACTOR       :KEY OFF
+
+///INDEX 204
+DATE              :2022/06/14 00:37:27
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+
+///INDEX 205
+DATE              :2022/06/14 00:37:21
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0103
+STOP FACTOR       :KEY OFF
+
+///INDEX 206
+DATE              :2022/06/14 00:37:21
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+
+///INDEX 207
+DATE              :2022/06/14 00:37:20
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+STOP FACTOR       :DONE
+
+///INDEX 208
+DATE              :2022/06/14 00:37:20
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+
+///INDEX 209
+DATE              :2022/06/14 00:37:20
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+STOP FACTOR       :KEY OFF
+
+///INDEX 210
+DATE              :2022/06/14 00:37:19
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+
+///INDEX 211
+DATE              :2022/06/14 00:37:19
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0102
+STOP FACTOR       :KEY OFF
+
+///INDEX 212
+DATE              :2022/06/14 00:37:18
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0101
+
+///INDEX 213
+DATE              :2022/06/14 00:37:16
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0101
+STOP FACTOR       :DONE
+
+///INDEX 214
+DATE              :2022/06/14 00:37:15
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0101
+
+///INDEX 215
+DATE              :2022/06/14 00:37:14
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0101
+STOP FACTOR       :KEY OFF
+
+///INDEX 216
+DATE              :2022/06/14 00:37:13
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0100
+
+///INDEX 217
+DATE              :2022/06/14 00:37:12
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0100
+STOP FACTOR       :DONE
+
+///INDEX 218
+DATE              :2022/06/14 00:37:09
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0099
+
+///INDEX 219
+DATE              :2022/06/14 00:37:09
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0099
+STOP FACTOR       :DONE
+
+///INDEX 220
+DATE              :2022/06/14 00:37:07
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0099
+
+///INDEX 221
+DATE              :2022/06/14 00:37:07
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0099
+STOP FACTOR       :KEY OFF
+
+///INDEX 222
+DATE              :2022/06/14 00:37:06
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0098
+
+///INDEX 223
+DATE              :2022/06/14 00:37:05
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0098
+STOP FACTOR       :DONE
+
+///INDEX 224
+DATE              :2022/06/14 00:37:02
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0097
+
+///INDEX 225
+DATE              :2022/06/14 00:37:02
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0097
+STOP FACTOR       :DONE
+
+///INDEX 226
+DATE              :2022/06/14 00:36:58
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0096
+
+///INDEX 227
+DATE              :2022/06/14 00:36:58
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0096
+STOP FACTOR       :DONE
+
+///INDEX 228
+DATE              :2022/06/14 00:36:57
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0095
+
+///INDEX 229
+DATE              :2022/06/14 00:36:56
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0095
+STOP FACTOR       :DONE
+
+///INDEX 230
+DATE              :2022/06/14 00:36:55
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0094
+
+///INDEX 231
+DATE              :2022/06/14 00:36:54
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0094
+STOP FACTOR       :DONE
+
+///INDEX 232
+DATE              :2022/06/14 00:36:53
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0093
+
+///INDEX 233
+DATE              :2022/06/14 00:36:52
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0093
+STOP FACTOR       :DONE
+
+///INDEX 234
+DATE              :2022/06/14 00:36:52
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0093
+
+///INDEX 235
+DATE              :2022/06/14 00:36:51
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0090
+STOP FACTOR       :DONE
+
+///INDEX 236
+DATE              :2022/06/14 00:36:51
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0090
+
+///INDEX 237
+DATE              :2022/06/14 00:36:50
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0090
+STOP FACTOR       :DONE
+
+///INDEX 238
+DATE              :2022/06/14 00:36:50
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0090
+
+///INDEX 239
+DATE              :2022/06/14 00:36:49
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0090
+STOP FACTOR       :DONE
+
+///INDEX 240
+DATE              :2022/06/14 00:36:49
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0089
+
+///INDEX 241
+DATE              :2022/06/14 00:36:48
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0089
+STOP FACTOR       :DONE
+
+///INDEX 242
+DATE              :2022/06/14 00:36:48
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0089
+
+///INDEX 243
+DATE              :2022/06/14 00:36:46
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0086
+STOP FACTOR       :DONE
+
+///INDEX 244
+DATE              :2022/06/14 00:36:46
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0086
+
+///INDEX 245
+DATE              :2022/06/14 00:36:45
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0086
+STOP FACTOR       :DONE
+
+///INDEX 246
+DATE              :2022/06/14 00:36:45
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0086
+
+///INDEX 247
+DATE              :2022/06/14 00:36:44
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0086
+STOP FACTOR       :DONE
+
+///INDEX 248
+DATE              :2022/06/14 00:36:43
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0085
+
+///INDEX 249
+DATE              :2022/06/14 00:36:42
+EVENT             :STOP
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0085
+STOP FACTOR       :DONE
+
+///INDEX 250
+DATE              :2022/06/14 00:36:42
+EVENT             :NEXT
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+LINE              :0084
+
+///INDEX 251
+DATE              :2022/06/14 00:32:35
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0008
+CURR VALUE
+     R1 :S     149969
+         L     -82921
+         U    -126695
+         R      90920
+         B     -42511
+         T    -223339
+     S1 :1      54189
+
+///INDEX 252
+DATE              :2022/06/14 00:31:48
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0005
+CURR VALUE
+     R1 :S     149969
+         L     -82921
+         U    -126695
+         R      90920
+         B     -42511
+         T    -223339
+     S1 :1      54189
+
+///INDEX 253
+DATE              :2022/06/14 00:31:03
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0002
+CURR VALUE
+     R1 :S     108725
+         L     -63855
+         U     -97488
+         R       3358
+         B     -68955
+         T    -103488
+     S1 :1      53109
+
+///INDEX 254
+DATE              :2022/06/14 00:28:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 255
+DATE              :2022/06/14 00:28:08
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0020
+DELETED LINE      : EIMOVL UF#(10) V=800.0 PL=0 
+
+
+///INDEX 256
+DATE              :2022/06/14 00:28:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0021
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S      37663
+         L      96221
+         U    -159708
+         R      49829
+         B     188172
+         T     243292
+     S1 :1       -108
+
+///INDEX 257
+DATE              :2022/06/14 00:27:31
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0010
+DELETED LINE      : EIMOVL UF#(10) V=800.0 PL=0 
+
+
+///INDEX 258
+DATE              :2022/06/14 00:27:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0011
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S      37621
+         L     110280
+         U    -155725
+         R      50934
+         B     194252
+         T     245656
+     S1 :1       -108
+
+///INDEX 259
+DATE              :2022/06/14 00:27:03
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0008
+DELETED LINE      : EIMOVL UF#(10) V=800.0 
+
+
+///INDEX 260
+DATE              :2022/06/14 00:27:01
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0009
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S      37663
+         L      96221
+         U    -159708
+         R      49829
+         B     188172
+         T     243292
+     S1 :1       -108
+
+///INDEX 261
+DATE              :2022/06/14 00:25:29
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0007
+CURR VALUE
+     R1 :S      37724
+         L       4874
+         U    -170529
+         R      48794
+         B     137730
+         T     225444
+     S1 :1       -108
+
+///INDEX 262
+DATE              :2022/06/14 00:24:22
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0006
+CURR VALUE
+     R1 :S      10396
+         L    -100063
+         U    -134106
+         R      67630
+         B      92122
+         T     125779
+     S1 :1       9761
+
+///INDEX 263
+DATE              :2022/06/14 00:23:43
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0005
+CURR VALUE
+     R1 :S      51225
+         L    -103758
+         U     -78672
+         R      19026
+         B      43380
+         T      97750
+     S1 :1      17041
+
+///INDEX 264
+DATE              :2022/06/14 00:22:49
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 265
+DATE              :2022/06/14 00:20:04
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 266
+DATE              :2022/06/14 00:19:21
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0016
+DELETED LINE      : MOVL V=12.0 
+
+
+///INDEX 267
+DATE              :2022/06/14 00:19:15
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0017
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S        780
+         L    -108627
+         U     -17069
+         R     155709
+         B     -75865
+         T     110298
+
+///INDEX 268
+DATE              :2022/06/14 00:19:04
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0016
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S        780
+         L    -108627
+         U     -17069
+         R     155709
+         B     -75865
+         T     110298
+
+///INDEX 269
+DATE              :2022/06/14 00:18:21
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0015
+CURR VALUE
+     R1 :S      -1053
+         L    -105319
+         U     -87072
+         R     157571
+         B     -78017
+         T     110490
+
+///INDEX 270
+DATE              :2022/06/14 00:18:05
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0014
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 271
+DATE              :2022/06/14 00:16:58
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0018
+AFTER EDIT        : MOVJ P010 VJ=50.00 
+CURR VALUE
+
+///INDEX 272
+DATE              :2022/06/14 00:16:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 273
+DATE              :2022/06/14 00:16:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 274
+DATE              :2022/06/14 00:16:04
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 275
+DATE              :2022/06/14 00:15:56
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 276
+DATE              :2022/06/14 00:15:36
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0017
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 277
+DATE              :2022/06/14 00:15:19
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 278
+DATE              :2022/06/14 00:14:36
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 279
+DATE              :2022/06/14 00:14:19
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0014
+DELETED LINE      : EIMOVL UF#(12) V=12.0 
+
+
+///INDEX 280
+DATE              :2022/06/14 00:14:15
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0015
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 281
+DATE              :2022/06/14 00:13:40
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+DELETED LINE      : EIMOVL UF#(12) V=12.0 
+
+
+///INDEX 282
+DATE              :2022/06/14 00:13:37
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S     -12016
+         L     110984
+         U    -162844
+         R     271020
+         B    -200894
+         T     -15851
+
+///INDEX 283
+DATE              :2022/06/14 00:13:00
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+DELETED LINE      : EIMOVL UF#(12) V=12.0 
+
+
+///INDEX 284
+DATE              :2022/06/14 00:12:48
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0007
+AFTER EDIT        : MOVL V=12.0 
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 285
+DATE              :2022/06/14 00:12:04
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+CURR VALUE
+     R1 :S     113417
+         L     -63456
+         U     114140
+         R      41736
+         B    -201230
+         T     211711
+
+///INDEX 286
+DATE              :2022/06/14 00:11:46
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+CURR VALUE
+     R1 :S      40646
+         L     -64984
+         U      70012
+         R      41737
+         B    -164944
+         T     182002
+
+///INDEX 287
+DATE              :2022/06/14 00:11:32
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+CURR VALUE
+     R1 :S      -5626
+         L    -105127
+         U     -20476
+         R     102467
+         B     -83673
+         T     160409
+
+///INDEX 288
+DATE              :2022/06/14 00:11:16
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+CURR VALUE
+     R1 :S      -1053
+         L    -105319
+         U     -87072
+         R     157571
+         B     -78017
+         T     110490
+
+///INDEX 289
+DATE              :2022/06/14 00:10:25
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 290
+DATE              :2022/06/13 23:51:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 291
+DATE              :2022/06/13 23:51:08
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+CURR VALUE
+     R1 :S      -5626
+         L    -105127
+         U     -20476
+         R     102467
+         B     -83673
+         T     160409
+
+///INDEX 292
+DATE              :2022/06/13 23:43:22
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 293
+DATE              :2022/06/13 23:39:41
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 294
+DATE              :2022/06/13 23:37:03
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0006
+CURR VALUE
+     R1 :S      10396
+         L    -100063
+         U    -134106
+         R      67630
+         B      92122
+         T     125779
+     S1 :1       9761
+
+///INDEX 295
+DATE              :2022/06/13 23:34:19
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 296
+DATE              :2022/06/13 23:22:03
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 297
+DATE              :2022/06/13 23:20:56
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+CURR VALUE
+     R1 :S     113417
+         L     -63456
+         U     114140
+         R      41736
+         B    -201230
+         T     211711
+
+///INDEX 298
+DATE              :2022/06/13 23:15:48
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S      40646
+         L     -64984
+         U      70012
+         R      41737
+         B    -164944
+         T     182002
+
+///INDEX 299
+DATE              :2022/06/13 23:14:19
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S     113416
+         L     -63456
+         U       3186
+         R      41737
+         B    -164945
+         T     182001
+
+///INDEX 300
+DATE              :2022/06/13 23:13:05
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 301
+DATE              :2022/06/13 22:58:39
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 302
+DATE              :2022/06/13 22:58:13
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 303
+DATE              :2022/06/13 22:52:50
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 304
+DATE              :2022/06/13 22:52:32
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+DELETED LINE      :'' 
+
+
+///INDEX 305
+DATE              :2022/06/13 22:52:31
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+DELETED LINE      :'' 
+
+
+///INDEX 306
+DATE              :2022/06/13 22:43:38
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 307
+DATE              :2022/06/13 22:43:11
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 308
+DATE              :2022/06/13 22:43:03
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0012
+AFTER EDIT        : WAIT IN#(554)=OFF 
+CURR VALUE
+
+///INDEX 309
+DATE              :2022/06/13 22:42:51
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0011
+AFTER EDIT        : WAIT IN#(553)=OFF 
+CURR VALUE
+
+///INDEX 310
+DATE              :2022/06/13 22:42:27
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 311
+DATE              :2022/06/13 22:42:16
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 312
+DATE              :2022/06/13 22:41:59
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+DELETED LINE      :' ' 
+
+
+///INDEX 313
+DATE              :2022/06/13 22:41:58
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+DELETED LINE      :'POS_DROP 
+
+
+///INDEX 314
+DATE              :2022/06/13 22:41:17
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0013
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 315
+DATE              :2022/06/13 22:40:58
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 316
+DATE              :2022/06/13 22:39:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 317
+DATE              :2022/06/13 22:39:42
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+DELETED LINE      :' ' 
+
+
+///INDEX 318
+DATE              :2022/06/13 22:39:34
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0016
+DELETED LINE      :' ' 
+
+
+///INDEX 319
+DATE              :2022/06/13 22:38:00
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0015
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S      -1053
+         L    -105319
+         U     -87072
+         R     157571
+         B     -78017
+         T     110490
+
+///INDEX 320
+DATE              :2022/06/13 22:37:41
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0014
+AFTER EDIT        : EIMOVL UF#(12) V=12.0 
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 321
+DATE              :2022/06/13 22:36:51
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+DELETED LINE      : MOVJ VJ=0.78 
+
+
+///INDEX 322
+DATE              :2022/06/13 22:36:49
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0010
+AFTER EDIT        : EIMOVL UF#(12) V=12.0 
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 323
+DATE              :2022/06/13 22:36:12
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S       4371
+         L     -85825
+         U    -160179
+         R     228368
+         B     -96961
+         T      49894
+
+///INDEX 324
+DATE              :2022/06/13 22:34:40
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0007
+DELETED LINE      : MOVJ VJ=0.78 
+
+
+///INDEX 325
+DATE              :2022/06/13 22:33:03
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S      -1053
+         L    -105319
+         U     -87072
+         R     157571
+         B     -78017
+         T     110490
+
+///INDEX 326
+DATE              :2022/06/13 22:30:08
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0007
+CURR VALUE
+     R1 :S     -12017
+         L     -58435
+         U    -170244
+         R     266761
+         B    -107184
+         T      32891
+
+///INDEX 327
+DATE              :2022/06/13 22:29:46
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0011
+AFTER EDIT        : CALL JOB:ABRE_GRAMPOS 
+CURR VALUE
+
+///INDEX 328
+DATE              :2022/06/13 22:29:37
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0011
+AFTER EDIT        : CALL JOB:RECUA_PINOS 
+CURR VALUE
+
+///INDEX 329
+DATE              :2022/06/13 22:29:11
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0010
+AFTER EDIT        : CALL JOB:RECUA_PINOS 
+CURR VALUE
+
+///INDEX 330
+DATE              :2022/06/13 22:28:14
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 331
+DATE              :2022/06/13 22:26:55
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+CURR VALUE
+     R1 :S     -12016
+         L     110984
+         U    -162844
+         R     271020
+         B    -200894
+         T     -15851
+
+///INDEX 332
+DATE              :2022/06/13 22:25:33
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+CURR VALUE
+     R1 :S      -5626
+         L    -105127
+         U     -20476
+         R     102467
+         B     -83673
+         T     160409
+
+///INDEX 333
+DATE              :2022/06/13 22:23:30
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 334
+DATE              :2022/06/13 22:02:14
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S     -28874
+         L    -108825
+         U     -22764
+         R       3689
+         B     -88130
+         T     110936
+
+///INDEX 335
+DATE              :2022/06/13 22:01:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 336
+DATE              :2022/06/13 21:53:51
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 337
+DATE              :2022/06/13 21:51:33
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0010
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 338
+DATE              :2022/06/13 21:51:32
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 339
+DATE              :2022/06/13 21:51:30
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 340
+DATE              :2022/06/13 21:51:08
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+AFTER EDIT        : MOVJ VJ=0.78 
+CURR VALUE
+     R1 :S       8004
+         L      89627
+         U    -136362
+         R     -97879
+         B     174440
+         T     230479
+
+///INDEX 341
+DATE              :2022/06/13 21:50:34
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+CURR VALUE
+     R1 :S       7987
+         L     120385
+         U    -127473
+         R    -100181
+         B     183457
+         T     221760
+
+///INDEX 342
+DATE              :2022/06/13 21:45:54
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+DELETED LINE      : EIMOVL UF#(1) P000 V=23.0 
+
+
+///INDEX 343
+DATE              :2022/06/13 21:45:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0007
+AFTER EDIT        : EIMOVL UF#(12) V=12.0 
+CURR VALUE
+     R1 :S       3212
+         L      88040
+         U    -137135
+         R     -92172
+         B     175059
+         T     225258
+
+///INDEX 344
+DATE              :2022/06/13 21:45:30
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 345
+DATE              :2022/06/13 21:36:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 346
+DATE              :2022/06/13 21:34:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 347
+DATE              :2022/06/13 21:32:34
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+AFTER EDIT        : EIMOVL UF#(1) P000 V=23.0 
+CURR VALUE
+
+///INDEX 348
+DATE              :2022/06/13 21:31:25
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+AFTER EDIT        :' ' 
+CURR VALUE
+
+///INDEX 349
+DATE              :2022/06/13 21:30:50
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 350
+DATE              :2022/06/13 21:30:49
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 351
+DATE              :2022/06/13 21:30:48
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 352
+DATE              :2022/06/13 21:30:47
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 353
+DATE              :2022/06/13 21:30:45
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 354
+DATE              :2022/06/13 21:30:44
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+DELETED LINE      :'COMMENT 
+
+
+///INDEX 355
+DATE              :2022/06/13 21:30:42
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+DELETED LINE      : MOVJ P000 VJ=50.00 
+
+
+///INDEX 356
+DATE              :2022/06/13 21:30:40
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+DELETED LINE      : MOVL P000 V=23.0 
+
+
+///INDEX 357
+DATE              :2022/06/13 21:30:12
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 358
+DATE              :2022/06/13 21:29:56
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 359
+DATE              :2022/06/13 21:28:49
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+AFTER EDIT        : MOVJ P000 VJ=50.00 
+CURR VALUE
+
+///INDEX 360
+DATE              :2022/06/13 21:27:49
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+AFTER EDIT        :'POS_DROP 
+CURR VALUE
+
+///INDEX 361
+DATE              :2022/06/13 21:27:20
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 362
+DATE              :2022/06/13 21:26:27
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 363
+DATE              :2022/06/13 21:25:44
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+AFTER EDIT        :'' 
+CURR VALUE
+
+///INDEX 364
+DATE              :2022/06/13 21:25:43
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+AFTER EDIT        :'' 
+CURR VALUE
+
+///INDEX 365
+DATE              :2022/06/13 21:25:38
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        :'' 
+CURR VALUE
+
+///INDEX 366
+DATE              :2022/06/13 21:24:48
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        :'' 
+CURR VALUE
+
+///INDEX 367
+DATE              :2022/06/13 21:24:15
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0009
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 368
+DATE              :2022/06/13 21:24:15
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0008
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 369
+DATE              :2022/06/13 21:24:14
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0007
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 370
+DATE              :2022/06/13 21:24:14
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0006
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 371
+DATE              :2022/06/13 21:24:14
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0005
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 372
+DATE              :2022/06/13 21:24:13
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0004
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 373
+DATE              :2022/06/13 21:24:13
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 374
+DATE              :2022/06/13 21:24:12
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+AFTER EDIT        :'COMMENT 
+CURR VALUE
+
+///INDEX 375
+DATE              :2022/06/13 21:23:30
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVL P000 V=23.0 
+CURR VALUE
+
+///INDEX 376
+DATE              :2022/06/13 21:19:50
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+DELETED LINE      : MOVS V=12.0 
+
+
+///INDEX 377
+DATE              :2022/06/13 21:19:27
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVS V=12.0 
+CURR VALUE
+     R1 :S       3239
+         L     129955
+         U    -127180
+         R     -98206
+         B     190360
+         T     220732
+
+///INDEX 378
+DATE              :2022/06/13 21:19:14
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 379
+DATE              :2022/06/13 21:19:06
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 380
+DATE              :2022/06/13 21:18:53
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+DELETED LINE      : MOVS V=12.0 
+
+
+///INDEX 381
+DATE              :2022/06/13 21:18:51
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+DELETED LINE      : MOVS V=12.0 
+
+
+///INDEX 382
+DATE              :2022/06/13 21:18:49
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+DELETED LINE      : MOVS V=12.0 
+
+
+///INDEX 383
+DATE              :2022/06/13 21:18:41
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0003
+AFTER EDIT        : MOVS V=12.0 
+CURR VALUE
+     R1 :S       3239
+         L     129955
+         U    -127180
+         R     -98206
+         B     190360
+         T     220732
+
+///INDEX 384
+DATE              :2022/06/13 21:18:40
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0002
+AFTER EDIT        : MOVS V=12.0 
+CURR VALUE
+     R1 :S       3239
+         L     129955
+         U    -127180
+         R     -98206
+         B     190360
+         T     220732
+
+///INDEX 385
+DATE              :2022/06/13 21:18:37
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVS V=12.0 
+CURR VALUE
+     R1 :S       3239
+         L     129955
+         U    -127180
+         R     -98206
+         B     190360
+         T     220732
+
+///INDEX 386
+DATE              :2022/06/13 21:18:35
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+DELETED LINE      : MOVC V=12.0 
+
+
+///INDEX 387
+DATE              :2022/06/13 21:17:16
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_DROP_OP150
+LINE              :0001
+AFTER EDIT        : MOVC V=12.0 
+CURR VALUE
+     R1 :S       3239
+         L     129955
+         U    -127180
+         R     -98206
+         B     190360
+         T     220732
+
+///INDEX 388
+DATE              :2022/06/13 21:10:55
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 389
+DATE              :2022/06/13 21:10:23
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 390
+DATE              :2022/06/13 21:09:58
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :DRESSER
+
+///INDEX 391
+DATE              :2022/06/13 21:07:25
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 392
+DATE              :2022/06/13 21:06:45
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R44_DROP_OP150
+
+///INDEX 393
+DATE              :2022/06/13 20:58:37
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 394
+DATE              :2022/06/13 20:46:01
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 395
+DATE              :2022/06/13 20:22:46
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 396
+DATE              :2022/06/13 20:22:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 397
+DATE              :2022/06/13 20:17:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 398
+DATE              :2022/06/13 20:13:49
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0132
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(52) WTM=52 WST=1 
+CURR VALUE
+
+///INDEX 399
+DATE              :2022/06/13 20:13:32
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0125
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(101) WTM=101 WST=1 
+CURR VALUE
+
+///INDEX 400
+DATE              :2022/06/13 20:13:14
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0116
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(32) WTM=32 WST=1 
+CURR VALUE
+
+///INDEX 401
+DATE              :2022/06/13 20:12:55
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0112
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(33) WTM=33 WST=1 
+CURR VALUE
+
+///INDEX 402
+DATE              :2022/06/13 20:12:11
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0092
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(89) WTM=89 WST=1 
+CURR VALUE
+
+///INDEX 403
+DATE              :2022/06/13 20:11:42
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0088
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(90) WTM=90 WST=1 
+CURR VALUE
+
+///INDEX 404
+DATE              :2022/06/13 20:10:24
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0073
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(18) WTM=18 WST=1 
+CURR VALUE
+
+///INDEX 405
+DATE              :2022/06/13 20:09:44
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0069
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(17) WTM=17 WST=1 
+CURR VALUE
+
+///INDEX 406
+DATE              :2022/06/13 20:08:40
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0057
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(111) WTM=111 WST=1 
+CURR VALUE
+
+///INDEX 407
+DATE              :2022/06/13 20:07:09
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0053
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(45) WTM=45 WST=1 
+CURR VALUE
+
+///INDEX 408
+DATE              :2022/06/13 20:06:44
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0049
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(46) WTM=46 WST=1 
+CURR VALUE
+
+///INDEX 409
+DATE              :2022/06/13 20:06:10
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0038
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(110) WTM=110 WST=1 
+CURR VALUE
+
+///INDEX 410
+DATE              :2022/06/13 20:05:17
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0029
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(96) WTM=96 WST=1 
+CURR VALUE
+
+///INDEX 411
+DATE              :2022/06/13 20:04:05
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0025
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(98) WTM=98 WST=1 
+CURR VALUE
+
+///INDEX 412
+DATE              :2022/06/13 20:03:49
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_SOLDA_OP140
+LINE              :0021
+AFTER EDIT        : SVSPOTMOV V=600.0 CLF#(1) GUN#(1) PRESS#(99) WTM=99 WST=1 
+CURR VALUE
+
+///INDEX 413
+DATE              :2022/06/13 20:02:24
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 414
+DATE              :2022/06/13 17:40:38
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :USER COORD
+ELEMENT NUMBER    :12-0-0
+AFTER EDIT        :ESTEIRA
+
+///INDEX 415
+DATE              :2022/06/13 15:55:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 416
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 417
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 418
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 419
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 420
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 421
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 422
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 423
+DATE              :2022/06/13 15:15:45
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :15564
+AFTER EDIT        :15565
+
+///INDEX 424
+DATE              :2022/06/13 15:15:44
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 425
+DATE              :2022/06/13 15:15:44
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 426
+DATE              :2022/06/12 14:14:15
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 427
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 428
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 429
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 430
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 431
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 432
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 433
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 434
+DATE              :2022/06/12 00:00:05
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :15563
+AFTER EDIT        :15564
+
+///INDEX 435
+DATE              :2022/06/11 16:45:33
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 436
+DATE              :2022/06/11 16:45:33
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 437
+DATE              :2022/06/11 16:45:32
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 438
+DATE              :2022/06/11 16:45:29
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 439
+DATE              :2022/06/11 16:45:29
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 440
+DATE              :2022/06/11 16:45:27
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 441
+DATE              :2022/06/11 12:10:37
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :TROCA_CAPA
+
+///INDEX 442
+DATE              :2022/06/11 12:10:21
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :DRESSER
+
+///INDEX 443
+DATE              :2022/06/11 10:24:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 444
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-40-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 445
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-39-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 446
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-38-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 447
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-37-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 448
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-36-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 449
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-35-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 450
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-34-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 451
+DATE              :2022/06/11 00:00:04
+EVENT             :OTHER FILE EDT
+LOGIN NAME        :
+FILE NAME         :REGENERATION UNIT INFO
+ELEMENT NUMBER    :1-33-0
+BEFORE EDIT       :15562
+AFTER EDIT        :15563
+
+///INDEX 452
+DATE              :2022/06/10 16:54:02
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 453
+DATE              :2022/06/10 16:49:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 454
+DATE              :2022/06/10 16:49:05
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0021
+AFTER EDIT        : MOVJ VJ=100.00 PL=0 
+CURR VALUE
+
+///INDEX 455
+DATE              :2022/06/10 16:48:36
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0020
+AFTER EDIT        : EIMOVL UF#(10) V=800.0 PL=0 
+CURR VALUE
+
+///INDEX 456
+DATE              :2022/06/10 16:46:17
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0003
+AFTER EDIT        : CALL JOB:VERIFICA_GRP_REC 
+CURR VALUE
+
+///INDEX 457
+DATE              :2022/06/10 16:46:10
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+START LINE        :0002
+END LINE          :0002
+
+///INDEX 458
+DATE              :2022/06/10 16:46:07
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+START LINE        :0002
+END LINE          :0002
+
+///INDEX 459
+DATE              :2022/06/10 16:45:53
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 460
+DATE              :2022/06/10 16:45:46
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+LINE              :0008
+AFTER EDIT        :'PINOS RECUADOS 
+CURR VALUE
+
+///INDEX 461
+DATE              :2022/06/10 16:45:33
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+LINE              :0002
+AFTER EDIT        :'GRAMPOS RECUADOS 
+CURR VALUE
+
+///INDEX 462
+DATE              :2022/06/10 16:45:20
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+START LINE        :0007
+END LINE          :0008
+
+///INDEX 463
+DATE              :2022/06/10 16:45:16
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :VERIFICA_GRP_REC
+
+///INDEX 464
+DATE              :2022/06/10 16:45:10
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINOS
+
+///INDEX 465
+DATE              :2022/06/10 16:45:07
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+START LINE        :0007
+END LINE          :0007
+
+///INDEX 466
+DATE              :2022/06/10 16:44:59
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+START LINE        :0002
+END LINE          :0005
+
+///INDEX 467
+DATE              :2022/06/10 16:44:56
+EVENT             :JOB EDIT(CUT)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+START LINE        :0003
+END LINE          :0006
+
+///INDEX 468
+DATE              :2022/06/10 16:44:49
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+LINE              :0002
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 469
+DATE              :2022/06/10 16:44:48
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+LINE              :0001
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 470
+DATE              :2022/06/10 16:44:41
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :VERIFICA_GRP_REC
+START LINE        :0001
+END LINE          :0004
+
+///INDEX 471
+DATE              :2022/06/10 16:44:39
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :VERIFICA_GRP_REC
+
+///INDEX 472
+DATE              :2022/06/10 16:44:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPOS
+
+///INDEX 473
+DATE              :2022/06/10 16:44:29
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :VERIFICA_GRP_REC
+
+///INDEX 474
+DATE              :2022/06/10 15:51:42
+EVENT             :JOB EDIT(R. PST)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+START LINE        :0009
+END LINE          :0012
+
+///INDEX 475
+DATE              :2022/06/10 15:51:31
+EVENT             :JOB EDIT(CUT)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+START LINE        :0009
+END LINE          :0009
+
+///INDEX 476
+DATE              :2022/06/10 15:51:25
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0006
+DELETED LINE      : MOVJ VJ=10.00 
+
+
+///INDEX 477
+DATE              :2022/06/10 15:51:21
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0008
+CURR VALUE
+     R1 :S      46570
+         L       4014
+         U    -163324
+         R     185906
+         B      70821
+         T     212371
+     S1 :1      57494
+
+///INDEX 478
+DATE              :2022/06/10 15:50:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+     R1 :S      33886
+         L    -105420
+         U     -83351
+         R     240027
+         B      91822
+         T     204828
+     S1 :1      57494
+
+///INDEX 479
+DATE              :2022/06/10 15:50:24
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+     R1 :S      84296
+         L    -111150
+         U     -83660
+         R     179563
+         B      90077
+         T     165874
+     S1 :1      57494
+
+///INDEX 480
+DATE              :2022/06/10 15:50:05
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+     R1 :S      49988
+         L    -101508
+         U     -83140
+         R     281300
+         B      91564
+         T     209059
+     S1 :1      57494
+
+///INDEX 481
+DATE              :2022/06/10 15:50:02
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+DELETED LINE      : EIMOVL UF#(15) V=12.0 
+
+
+///INDEX 482
+DATE              :2022/06/10 15:50:01
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S      49988
+         L    -101508
+         U     -83140
+         R     281300
+         B      91564
+         T     209059
+     S1 :1      57494
+
+///INDEX 483
+DATE              :2022/06/10 15:49:12
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+
+///INDEX 484
+DATE              :2022/06/10 15:49:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S      49988
+         L    -101508
+         U    -133373
+         R     244695
+         B      89965
+         T     216320
+     S1 :1      57494
+
+///INDEX 485
+DATE              :2022/06/10 15:47:29
+EVENT             :JOB EDIT(P. MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+CURR VALUE
+     R1 :S      46570
+         L       4014
+         U    -163324
+         R     185906
+         B      70821
+         T     212371
+     S1 :1      57494
+
+///INDEX 486
+DATE              :2022/06/10 15:41:59
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 487
+DATE              :2022/06/10 15:41:47
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 488
+DATE              :2022/06/10 15:41:35
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 489
+DATE              :2022/06/10 15:41:28
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+DELETED LINE      : MOVJ VJ=0.75 
+
+
+///INDEX 490
+DATE              :2022/06/10 15:41:26
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 491
+DATE              :2022/06/10 15:41:21
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :10
+SET VALUE          PULSE             --> PULSE            
+                   00                --> 00               
+                   R1 :S       96197 --> R1 :S      140050
+                       L      -73694 -->     L     -126820
+                       U       16918 -->     U      -84504
+                       R      -52204 -->     R       14231
+                       B     -184311 -->     B       87660
+                       T     -203140 -->     T       95695
+
+///INDEX 492
+DATE              :2022/06/10 15:41:00
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :11
+SET VALUE          PULSE             --> PULSE            
+                   00                --> 00               
+                   R1 :S           0 --> R1 :S       96197
+                       L           0 -->     L      -73694
+                       U           0 -->     U       16918
+                       R           0 -->     R      -52204
+                       B           0 -->     B     -184311
+                       T           0 -->     T     -203140
+
+///INDEX 493
+DATE              :2022/06/10 15:40:59
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :11
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 494
+DATE              :2022/06/10 15:40:51
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 495
+DATE              :2022/06/10 15:40:15
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0002
+AFTER EDIT        : MOVJ P010 EX010 VJ=50.00 
+CURR VALUE
+
+///INDEX 496
+DATE              :2022/06/10 15:39:53
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0002
+AFTER EDIT        : MOVJ P011 EX010 VJ=50.00 
+CURR VALUE
+
+///INDEX 497
+DATE              :2022/06/10 15:38:59
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+AFTER EDIT        : MOVJ VJ=0.75 
+CURR VALUE
+
+///INDEX 498
+DATE              :2022/06/10 15:38:54
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S     140050
+         L    -126820
+         U     -84504
+         R      14231
+         B      87660
+         T      95695
+     S1 :1      17041
+
+///INDEX 499
+DATE              :2022/06/10 15:37:11
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+AFTER EDIT        : MOVJ P010 EX010 VJ=50.00 
+CURR VALUE
+
+///INDEX 500
+DATE              :2022/06/10 15:37:00
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+
+///INDEX 501
+DATE              :2022/06/10 15:36:56
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0002
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S      42838
+         L     -88841
+         U    -129602
+         R      31663
+         B      83433
+         T     151959
+     S1 :1       9761
+
+///INDEX 502
+DATE              :2022/06/10 15:36:38
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+
+///INDEX 503
+DATE              :2022/06/10 15:36:33
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R44_PICK_OP130
+LINE              :0001
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S      51225
+         L    -103758
+         U     -78672
+         R      19026
+         B      43380
+         T      97750
+     S1 :1      17041
+
+///INDEX 504
+DATE              :2022/06/10 15:35:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 505
+DATE              :2022/06/10 15:35:09
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+START LINE        :0004
+END LINE          :0004
+
+///INDEX 506
+DATE              :2022/06/10 15:35:07
+EVENT             :JOB EDIT(CUT)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+START LINE        :0003
+END LINE          :0003
+
+///INDEX 507
+DATE              :2022/06/10 15:34:49
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=10.00 
+CURR VALUE
+
+///INDEX 508
+DATE              :2022/06/10 15:34:47
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : MOVJ VJ=10.00 PL=0  //POSICAO DE MANUTENCAO 
+CURR VALUE
+
+///INDEX 509
+DATE              :2022/06/10 15:34:43
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0006
+AFTER EDIT        : MOVJ VJ=10.00 
+CURR VALUE
+
+///INDEX 510
+DATE              :2022/06/10 15:34:38
+EVENT             :JOB EDIT(R. PST)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+START LINE        :0006
+END LINE          :0007
+
+///INDEX 511
+DATE              :2022/06/10 15:34:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0005
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 512
+DATE              :2022/06/10 15:34:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0004
+AFTER EDIT        :'******************************** 
+CURR VALUE
+
+///INDEX 513
+DATE              :2022/06/10 15:34:08
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : MOVJ VJ=100.00 PL=0  //POSICAO DE MANUTENCAO 
+CURR VALUE
+
+///INDEX 514
+DATE              :2022/06/10 15:33:20
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : MOVJ VJ=100.00 PL=0 
+CURR VALUE
+
+///INDEX 515
+DATE              :2022/06/10 15:33:16
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+
+///INDEX 516
+DATE              :2022/06/10 15:33:09
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0003
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S     118336
+         L     -49659
+         U    -161914
+         R     -28986
+         B     -66599
+         T    -210485
+     S1 :1      57494
+
+///INDEX 517
+DATE              :2022/06/10 15:32:01
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : MOVJ VJ=100.00 
+CURR VALUE
+
+///INDEX 518
+DATE              :2022/06/10 15:31:54
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :POSICAO_MANUTENCAO
+LINE              :0002
+AFTER EDIT        : EIMOVL UF#(15) V=12.0 
+CURR VALUE
+     R1 :S     121851
+         L     -65299
+         U    -123053
+         R      -4665
+         B     -89658
+         T    -185576
+     S1 :1      57494
+
+///INDEX 519
+DATE              :2022/06/10 15:30:21
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :POSICAO_MANUTENCAO
+
+///INDEX 520
+DATE              :2022/06/10 10:03:23
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 521
+DATE              :2022/06/10 09:41:19
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 522
+DATE              :2022/06/10 08:44:37
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 523
+DATE              :2022/06/10 08:39:34
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 524
+DATE              :2022/06/10 08:32:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 525
+DATE              :2022/06/09 10:03:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 526
+DATE              :2022/06/09 09:52:44
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 527
+DATE              :2022/06/09 09:52:37
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINOS
+
+///INDEX 528
+DATE              :2022/06/09 09:51:54
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 529
+DATE              :2022/06/09 09:51:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINOS
+
+///INDEX 530
+DATE              :2022/06/09 09:51:32
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 531
+DATE              :2022/06/09 09:51:28
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINOS
+
+///INDEX 532
+DATE              :2022/06/09 09:51:22
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPOS
+
+///INDEX 533
+DATE              :2022/06/09 09:51:16
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :FECHA_GRAMPOS
+
+///INDEX 534
+DATE              :2022/06/09 09:51:12
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPOS
+
+///INDEX 535
+DATE              :2022/06/09 09:51:08
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 536
+DATE              :2022/06/09 09:49:30
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINOS
+
+///INDEX 537
+DATE              :2022/06/09 09:47:33
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 538
+DATE              :2022/06/09 09:47:32
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :ABRE_GRAMPO
+
+///INDEX 539
+DATE              :2022/06/09 09:44:48
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 540
+DATE              :2022/06/09 09:40:13
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 541
+DATE              :2022/06/09 09:26:02
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :FECHA_GRAMPO
+
+///INDEX 542
+DATE              :2022/06/09 09:26:02
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :RECUA_PINO
+
+///INDEX 543
+DATE              :2022/06/09 09:26:02
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :AVANCA_PINO
+
+///INDEX 544
+DATE              :2022/06/09 09:26:02
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 545
+DATE              :2022/06/09 09:24:58
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :AVANCA_PINOS
+
+///INDEX 546
+DATE              :2022/06/09 09:24:27
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :TESTEGR
+
+///INDEX 547
+DATE              :2022/06/09 09:22:48
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 548
+DATE              :2022/06/09 09:22:42
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :TESTEGR
+
+///INDEX 549
+DATE              :2022/06/09 09:01:58
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 550
+DATE              :2022/06/09 08:53:27
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPO
+
+///INDEX 551
+DATE              :2022/06/09 08:49:34
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 552
+DATE              :2022/06/09 08:49:21
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE1
+
+///INDEX 553
+DATE              :2022/06/09 08:49:19
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE2
+
+///INDEX 554
+DATE              :2022/06/09 08:49:17
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE3
+
+///INDEX 555
+DATE              :2022/06/09 08:49:14
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE
+
+///INDEX 556
+DATE              :2022/06/09 08:49:06
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 557
+DATE              :2022/06/09 08:48:56
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPO
+
+///INDEX 558
+DATE              :2022/06/09 08:48:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 559
+DATE              :2022/06/09 00:30:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 560
+DATE              :2022/06/08 17:20:54
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 561
+DATE              :2022/06/08 17:20:15
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 562
+DATE              :2022/06/08 17:20:15
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 563
+DATE              :2022/06/08 17:19:27
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 564
+DATE              :2022/06/08 17:19:11
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 565
+DATE              :2022/06/08 17:18:05
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 566
+DATE              :2022/06/08 17:18:05
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 567
+DATE              :2022/06/08 17:17:34
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 568
+DATE              :2022/06/08 17:17:30
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 569
+DATE              :2022/06/08 17:17:30
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 570
+DATE              :2022/06/08 17:16:19
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 571
+DATE              :2022/06/08 17:15:20
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 572
+DATE              :2022/06/08 17:10:25
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TSTSOLDA
+
+///INDEX 573
+DATE              :2022/06/08 17:09:27
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 574
+DATE              :2022/06/08 17:07:24
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 575
+DATE              :2022/06/08 16:53:56
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE2
+
+///INDEX 576
+DATE              :2022/06/08 16:53:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TESTE3
+
+///INDEX 577
+DATE              :2022/06/08 16:42:55
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TSTSOLDA
+
+///INDEX 578
+DATE              :2022/06/08 16:42:37
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :TSTSOLDA
+
+///INDEX 579
+DATE              :2022/06/07 15:56:49
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 580
+DATE              :2022/06/07 15:56:37
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :RECUA_PINO
+
+///INDEX 581
+DATE              :2022/06/07 15:55:53
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 582
+DATE              :2022/06/07 15:55:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPO
+
+///INDEX 583
+DATE              :2022/06/07 15:52:45
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 584
+DATE              :2022/06/07 15:52:36
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :ABRE_GRAMPO
+
+///INDEX 585
+DATE              :2022/06/07 15:48:34
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 586
+DATE              :2022/06/07 15:47:53
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 587
+DATE              :2022/06/07 15:47:18
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 588
+DATE              :2022/06/07 14:34:40
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 589
+DATE              :2022/06/07 14:34:40
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 590
+DATE              :2022/06/07 14:33:43
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 591
+DATE              :2022/06/07 10:09:24
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :TESTE_PRESSAO
+
+///INDEX 592
+DATE              :2022/06/07 09:27:54
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 593
+DATE              :2022/06/07 09:27:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 594
+DATE              :2022/06/07 09:26:48
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 595
+DATE              :2022/06/07 09:26:36
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 596
+DATE              :2022/06/07 09:25:58
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_SOLDA_OP140
+
+///INDEX 597
+DATE              :2022/06/07 09:25:10
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 598
+DATE              :2022/06/07 09:24:51
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+///INDEX 599
+DATE              :2022/06/07 09:24:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_PICK_OP130
+
+///INDEX 600
+DATE              :2022/06/07 09:24:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R44_DROP_OP130
+
+
